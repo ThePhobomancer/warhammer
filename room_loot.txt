@@ -1,0 +1,543 @@
+Jeweled Dagger – A silver blade set with rubies in the hilt, ceremonial but still sharp.
+Crown of the Fallen King – A tarnished gold crown with missing gems, still exudes regality.
+Enchanted Amulet – Glows faintly, said to protect against evil spirits.
+Bag of Holding – A simple-looking satchel with endless storage inside.
+Ancient Grimoire – Bound in cracked leather, its pages shimmer with arcane energy.
+Dragonbone Flute – Plays eerie melodies, rumored to charm beasts.
+Royal Signet Ring – Identifies its bearer as nobility or heir to a hidden lineage.
+Elven Cloak – Seamless and light, blends perfectly into natural surroundings.
+Golden Chalice – Engraved with holy symbols, used in royal ceremonies.
+Silver Mirror – Perfectly polished, can reveal glimpses of the past.
+Enchanted Compass – Always points toward what the holder seeks most.
+Runed Bracers – Grant temporary protection from elemental forces.
+Bag of Platinum Coins – Old mint, bearing the image of a lost empire.
+Cursed Gemstone – Impossibly beautiful but whispers dark thoughts.
+Holy Relic – A bone or cloth fragment from a saint, revered and powerful.
+Spell Scroll of Fireball – Contains a single powerful casting.
+Crystal Ball – Cloudy surface clears to show visions.
+Phoenix Feather – Rare and coveted, used in resurrection rituals.
+Gold-Inlaid Armor – Ornate, ceremonial, and valuable despite impracticality.
+Wand of Illusions – Casts minor visual tricks, popular among thieves and jesters.
+Vial of Elven Perfume – Fragrance lasts for days, highly sought after in courts.
+Star Map on Silk – Shows constellations that no longer exist.
+Potion of Invisibility – Clear liquid that seems to vanish in the bottle.
+Wyrmfang Necklace – Fangs from a drake, strung on mithril wire.
+Gem-Encrusted Goblet – Used in ancient rituals, worth a noble’s ransom.
+Scroll of Lineage – Proves descent from a royal bloodline.
+Opal-Studded Circlet – Enhances magical aptitude when worn.
+Dwarven Beard Beads – Symbolize honor, forged from star-metal.
+Map to Lost Treasure – Marked in faded ink, rumored to lead to a forgotten vault.
+Ornate Censer – Still fragrant with rare incense, used in divine rituals.
+Celestial Compass – Tracks celestial bodies, used in high-magic navigation.
+Obsidian Dagger – Warm to the touch, hums with infernal power.
+Silken Spell Robe – Threads shimmer with woven enchantments.
+Bottle of Everwine – Magical vintage that never depletes.
+Ancient War Banner – Radiates morale to nearby allies.
+Unicorn Horn Fragment – Said to purify any liquid it touches.
+Gilded Cage – Once held a royal falcon; priceless for craftsmanship.
+Arcane Lens – Lets one see magical auras or illusions.
+Moonstone Ring – Changes color with the moon phase.
+Runic Talisman – Protects from curses and hexes.
+Obsidian Mirror – Shows true forms when stared into.
+Potion of Longevity – Rare and dangerous, slows aging dramatically.
+Gold Statue of a Deity – Small but immensely valuable to the faithful.
+Encrypted Spellbook – Pages are blank unless read under moonlight.
+Gilded Harp – Strings of silver, notes charm listeners.
+Magical Puzzle Box – Holds a secret item; requires intellect to unlock.
+Sapphire Crown – Said to enhance wisdom and charisma.
+Platinum Chess Set – Enchanted to play itself when bored.
+Ancient Coin Collection – Valuable to collectors and historians.
+Ornamental War Horn – When blown, can rally troops from leagues away.
+Chameleon Cloak – Shifts patterns to match surroundings.
+Runed Orb – Glows when undead are near.
+Emerald Diadem – Grants dreams of future events.
+Tome of Forgotten Gods – Heretical but highly desired by cults and scholars.
+Bag of Rare Spices – Exotic and worth its weight in gold in the right market.
+Scepter of Judgment – Symbol of an ancient court’s authority.
+Pearl of the Deep – Retrieved from sea monster lairs, whispers when held.
+Dragon Scale Fragment – Incredibly resilient and valuable to smiths.
+Oil of Blessing – Used in ancient coronation rituals.
+Ceremonial Mask – Worn by high priests, adorned with gold and feathers.
+Antique Music Box – Plays melodies lost to time.
+Vial of Moonlight – Liquid light trapped by ancient magic.
+Dagger of Shadows – Can strike incorporeal beings.
+Fire Opal – Blazes internally, warm to the touch.
+Tears of a Dryad – Rare crystalline drops, used in potent enchantments.
+Cursed Coin – Brings misfortune but worth a fortune.
+Mermaid’s Comb – Covered in barnacles, rumored to summon tides.
+Giant’s Fingerbone – Used in alchemy and worth a hefty sum.
+Astral Chart – Maps other planes, invaluable to planar scholars.
+Scribe’s Eternal Inkpot – Never runs dry, favored by mages.
+Cloak of Autumn Leaves – Always smells of the forest, never decays.
+Sunforged Pendant – Glows in darkness, grants courage.
+Glass Rose – Beautiful, unbreakable, crafted by elven artisans.
+Silver Fang – Trophy from a legendary wolf, inlaid with runes.
+Golem Core – Heavy and humming, needed for rare constructs.
+Sapphire-Studded Belt – Enhances stamina and health.
+Clockwork Familiar – Tiny mechanical bird, still ticks faintly.
+Raven Feather Quill – Boosts writing speed and creativity.
+Tunic of Starlight – Woven from night sky threads, rare and mystical.
+Sunken Idol – Dragged from a lakebed, radiates eerie warmth.
+Cursed King’s Skull – Golden tooth still gleams, haunted but valuable.
+Dragon’s Eye Gem – Looks alive, watches those who hold it.
+Cloak Pin of the Wind – Lets the wearer resist strong winds.
+Frostblown Gem – Ice-cold to touch, core swirling with mist.
+Banner of Victory – Said to have flown in a legendary battle.
+Dwarven Forging Hammer – Makes anything it strikes unbreakable.
+Demonic Contract Scroll – Dangerous to read, priceless to the wrong buyers.
+Ghost Ink Manuscript – Only visible with magic, contains a forgotten spell.
+Ring of the Ancients – Allows understanding of dead languages.
+Heartwood Branch Wand – Grants minor nature spells.
+Silver-threaded Gloves – Increase precision, favored by assassins.
+Talisman of Serenity – Calms beasts and angry spirits.
+Lantern of Lost Paths – Always lights the safest route forward.
+Gilded Dice of Fortune – Roll to change fate, once.
+Portrait of a Forgotten Queen – Magical eyes follow viewers.
+Bottle of Cloudstuff – Airy vapor harvested from floating isles.
+Earring of Secrets – Whispers eavesdropped conversations.
+Vial of Basilisk Venom – Rare, lethal, and highly illegal.
+Tome of Binding – Used to trap spirits or elementals.
+Heavensteel Ingot – Impossible to replicate, used in divine weaponry.
+Starlit Circlet – Emits a gentle glow under moonlight, sacred to night deities.
+Golden Scarab – An ancient symbol of protection, highly prized in desert regions.
+Enchanted Quiver – Replenishes one mundane arrow per hour.
+Royal Decree Scroll – Holds political power in the right hands.
+Orichalcum Ring – An extremely rare alloy that resists magic.
+Gloves of Silver Thread – Boosts sleight-of-hand and subtle spellcasting.
+Basilisk Scale – Rare alchemical reagent, valued by apothecaries.
+Tunic of Featherfall – Slows the wearer’s fall when activated.
+Golden Torque – An ancient symbol of chieftainship among hill clans.
+Witch's Crystal – Used for communing with the spirit world.
+Bottle of Djinn Smoke – Trapped elemental essence; valuable but dangerous.
+Minotaur Horn – Trophy of battle, revered by warrior cultures.
+Blessed Thorn – Said to come from a divine rosebush, heals minor wounds.
+Dragon’s Blood Vial – Powerfully magical, illegal in most kingdoms.
+Celestial Medallion – Grants brief immunity to curses.
+Golden Lute – Exquisite craftsmanship, beloved by nobles and bards.
+Runestone Necklace – Increases clarity for spell memorization.
+Cursed Noble's Diary – Full of scandal; valuable and dangerous.
+Scroll of Sealing – Binds doors, chests, or portals for a day.
+Fool’s Gold Nugget – Looks real, radiates a minor illusion aura.
+Mithril Thread Spool – Lightweight and magical, prized by elven tailors.
+Oil of Elemental Binding – Used in high-level enchantments.
+Shadowglass Lens – Allows sight through one wall, once per day.
+Holy Water Censer – Glows when near the undead.
+Gold-Filigree Pendant – A delicate chain suspending a tiny orb of polished jade, wrapped in fine gold wire.
+Obsidian Chalice – Deep black with a glossy surface, etched with swirling flame motifs.
+Moonstone Ring – Set in twisted silver, the gem shifts hues in different lighting.
+Amber Medallion – Warm to the touch, with a perfectly preserved insect inside.
+Crystal Decanter – Clear and faceted like a diamond, stoppered with carved quartz.
+Silken Tapestry – Vibrant dyes still bright, depicting a hunt scene with silver threads.
+Jeweled Hairpin – Gold stem topped with a small emerald leaf motif.
+Bronze Idol – Fist-sized statue with a stylized, weathered face and jade eyes.
+Ivory Comb – Finely carved with floral patterns and a mother-of-pearl inlay.
+Inlaid Compass – Polished brass casing with inlaid lapis around the dial.
+Ornate Brass Candelabra – Six arms with clawed feet and curling floral design.
+Velvet Coin Pouch – Dyed a deep burgundy, embroidered with golden thread.
+Engraved Pocket Sundial – A folding piece of etched brass with tiny inscriptions.
+Woven Reed Scroll Case – Reinforced with leather binding and bronze end caps.
+Polished Onyx Dice Set – Hefty in the hand, with delicate silver numerals.
+Marble Bust Fragment – Smooth cheek and half a nose, once part of a grand statue.
+Pearl Button Cloak Clasp – Twin discs of polished shell bound with twisted gold wire.
+Leather-Bound Book – The cover is tooled with a floral border and a silver lock.
+Copper Stamped Plate – Hammered flat with a repeating geometric border design.
+Tortoiseshell Lute Pick – Polished smooth and banded with dark and light amber tones.
+Golden Anklet – Hollow links engraved with tiny repeating spiral patterns.
+Frosted Glass Bottle – Pale blue and opaque, shaped like a teardrop.
+Antique Inkpot – Made from carved horn with a brass lid etched with runes.
+Polished Amber Ring – Oval stone with inner swirling patterns like trapped smoke.
+Silver Belt Buckle – Stylized in the shape of a coiled serpent.
+Decorated Battle Standard Finial – Cast iron shaped like a roaring lion's head.
+Ceramic Perfume Flacon – Bulbous and painted with floral vines in green and gold.
+Golden Hairnet – Interwoven chain links that shimmer in candlelight.
+Pewter Tankard – Embossed with a dancing bear motif, surprisingly heavy.
+Shell Cameo Brooch – Hand-carved portrait against a soft coral background.
+Porcelain Snuff Box – Small and egg-shaped, painted with birds and flowering trees.
+Bronze Door Knocker – Shaped like a raven’s talon gripping a ring.
+Polished Bone Writing Stylus – Etched with dots for grip and capped in copper.
+Gilded Sand Timer – Glass vials with finely sifted black sand between them.
+Wool and Silver Embroidered Sash – Heavy, with a repeating wave pattern stitched along the length.
+Gem-Handled Letter Opener – Miniature dagger with a garnet pommel.
+Ivory Dice Cup – Smooth exterior with shallow carved border scenes.
+Lead-Sealed Scroll Tube – Cylindrical and tarnished, with sealing wax still intact.
+Coral and Jet Necklace – Alternating matte and gloss stones, strung on red silk.
+Steel and Gold Buckle – Angular and military in style, with a lion crest.
+Enamel Trinket Box – Rectangular, painted with mythic beasts in blue and gold.
+Crystal Snail Figurine – Nearly translucent, catches light in rainbow specks.
+Tooled Leather Bracer – Thick hide with deep embossing and bronze studs.
+Star Sapphire Bracelet – Smooth and curved with gems fixed along a silver band.
+Silver Threaded Handkerchief – Monogrammed and folded neatly into an ivory box.
+Ornamental Brass Horn – Spiral shape with decorative etching along its body.
+Lacquered Wood Fan – Deep black lacquer painted with cranes in silver leaf.
+Copper Hair Coil – Spiraled in layers, polished to a mirror shine.
+Jade Paperweight – Carved into a crouching lion with finely detailed mane.
+Quartz Ink Stamp – Clear block with an intricate sigil inside its base.
+Boar Tusk Pendant – Smoothed and tipped with a band of silver.
+Wrought Iron Key Set – Ring of three large, unusually shaped keys.
+Brass Astrolabe Fragment – Finely engraved with star charts and compass points.
+Lapiz-Lazuli Signet Ring – Deep blue stone set flush into aged gold.
+Alabaster Lamp Base – Cool and heavy, shaped like an urn.
+Carved Wooden Amulet – Aged pine, worn smooth from years of handling.
+Serpentine Stone Beads – Pale green, cloudy, and strung with red twine.
+Glass Eyeglass Lenses – Delicate round panes in a copper frame.
+Inlaid Horn Bowl – Lightly curved, inlaid with bone in a fish scale pattern.
+Agate Snuff Spoon – Swirled gray with a mother-of-pearl handle.
+Brass Hourglass Frame – Sturdy and geometric, holding worn glass bulbs.
+Gold Nose Ring – Thin and oval, decorated with tiny ball ends.
+Copper Wire Tiara – Minimalist, wrapped around a single ruby bead.
+Ceremonial Flint Blade – Razor-sharp with an ivory hilt bound in gold wire.
+Polished Turquoise Bracelet – Bright teal stones with faint gold veins.
+Platinum Chain Links – Tiny interlocking segments, nearly weightless.
+Iron Signet Stamp – Square face with a sunburst emblem, heavily tarnished.
+Silver Nose Chain – Connects ear and nostril, dotted with pearls.
+Gold Lip Plate – Thin, round, and hammered to a soft curve.
+Obsidian Razor Blade – Glasslike edge mounted in a carved wood handle.
+Fossilized Tooth Pendant – Suspended in a wire cage of gold filigree.
+Sunstone Amulet – Gleams with fiery reflections even in dim light.
+Map Scroll on Calfskin – Rolled and tied with silk cord, edges curled from age.
+Bejeweled Nail Sheath – Slips over the pinky; gold with ruby inset.
+Painted Clay Figurine – Rough but vivid, likely part of a set.
+Gilded Iron Spoon – Common shape, made luxurious with delicate etching.
+Ornate Book Clasp – Hinged and patterned with tiny fleur-de-lis.
+Mother-of-Pearl Buttons – Round and luminous, found in a velvet pouch.
+Carved Amber Bead Chain – Each bead shaped like a tiny animal.
+Enamel-Capped Walking Stick – Wood core tipped with colorful enamel scenes.
+Obsidian Cup – Hollowed from a single piece of black volcanic glass.
+Twisted Gold Ring – Two bands braided together in a seamless loop.
+Soapstone Idol – Cold and smooth, shaped like a coiled serpent.
+Copper Feather Bookmark – Thin and flexible, tucked into a book of prayers.
+Shell-Inlaid Lantern – Panels glow faintly with a rainbow sheen.
+Sapphire Nose Stud – Pinhead gem on a fine golden post.
+Silver Wire Mesh Veil – Gossamer-thin but surprisingly sturdy.
+Painted Ostrich Egg – Hollowed and decorated with spirals and suns.
+Miniature Bronze Bell – High-pitched tone, small loop handle engraved.
+Snail Shell Brooch – Cast in pewter with turquoise inlay.
+Dried Flower Crown – Pressed blossoms sewn into golden wire.
+Gemmed Arrowhead – Notched for display, made from smoky quartz.
+Wooden Medallion – Burned with a family crest, polished smooth.
+Pearl Teardrop Earrings – Set in antique gold clasps, matching pair.
+Jade Chopsticks – Smooth and cool, carved with cloud motifs.
+Gold-Encrusted Quill Pen – Shaft detailed with leafy filigree.
+Sapphire-Encrusted Hairbrush – Handle shaped like a swan.
+Tiny Crystal Vial – Empty, but stopper is faceted like a gem.
+Beaten Silver Bracers – Dull sheen with faint hammer marks left in place.
+Painted Bone Dice – Dots filled with gold leaf, box lined with velvet.
+The Weeping Saint (painting) – A hooded figure sheds silver tears beneath a storm-wracked sky.
+Feast of the Hollow King (painting) – Undead nobles dine in a grand, rotting hall.
+The Fall of Aelthorn (painting) – A once-mighty city burns as dragons circle above.
+Duel at Dawn (painting) – Two knights clash on a frost-covered moor.
+The Sapphire Vale (painting) – A tranquil valley with vivid blue rivers and crystal flowers.
+Lady of the Black Chalice (painting) – A sorceress cradles a glowing, cursed cup.
+Arrival of the Sea Prince (painting) – A regal figure disembarks from a shell-shaped ship.
+Beneath the Moonstone Arch (painting) – Lovers meet beneath a glowing, ancient ruin.
+The Hunt Eternal (painting) – Shadowy riders chase spectral stags through foggy woods.
+Mad Queen Aratha (painting) – A wide-eyed monarch stands in a throne room of thorns.
+The Ninth Tower Burns (painting) – A spire topples under siege from flaming wyverns.
+Children of the Ember Tree (painting) – Ashen-skinned children play under a tree of fire.
+The Pilgrim’s Return (painting) – A cloaked traveler approaches a mountain temple.
+Lanterns on the Black Lake (painting) – Dozens of floating lanterns reflect in ink-dark water.
+The Pact of Three Crowns (painting) – Three monarchs toast beneath a blood-red sky.
+The Last Griffon Rider (painting) – A lone rider vanishes into a blizzard.
+The Crystal Garden (painting) – Statues and flowers of ice shimmer beneath starlight.
+Visions of the Star-Eater (painting) – A robed prophet gazes at a celestial eclipse.
+Procession of Masks (painting) – Dozens of masked figures dance through ancient streets.
+Dreams Beneath the Catacombs (painting) – A sleeping figure surrounded by lurking shadows.
+The First Sword of Vyrn (painting) – A warrior raises a glowing blade in triumph.
+Saint Elien and the Wyrm (painting) – A calm priestess holds a dragon in her arms.
+Court of the Moon Maiden (painting) – Elves feast beneath a pale and magical sky.
+Harvest of Bones (painting) – Crows circle above a battlefield strewn with helmets.
+The Garden That Sleeps (painting) – A frozen orchard coated in silver frost.
+The Whispering Wall (painting) – A mural of faces caught mid-scream.
+The Bloody Hourglass (painting) – Sand runs red between crystal chambers.
+The Winter Wedding (painting) – A cold ceremony between noble houses at night.
+The King Who Would Not Die (painting) – A regal corpse enthroned beneath cobwebs.
+The Singer of Storms (painting) – A bard on a cliff, mouth open, clouds coiling overhead.
+The Watchers in the Fog (painting) – Tall, cloaked figures stand in a dense white mist.
+Serpent of the Seven Isles (painting) – A massive sea creature coils through ocean waves.
+The Tower and the Moon (painting) – A crumbling spire silhouetted by a massive moon.
+Flames Over Ebonreach (painting) – A city wall breached by a rain of fire.
+The Mask of the Prophet (painting) – A faceless priest before an altar of light.
+The Feast of Blossoms (painting) – A springtime banquet under a cherry tree in full bloom.
+The Bell That Never Rang (painting) – A silent bell in a tower of cracked stone.
+Twilight in the Ashlands (painting) – Smoky hills glowing with dying embers.
+The Mirror Without Reflection (painting) – A gilded mirror in an empty room.
+The Leviathan Sleeps (painting) – A slumbering beast beneath deep ocean currents.
+Orchid and Dagger (painting) – A lone dagger lies beside a blooming white flower.
+The Bridge of Falling Stars (painting) – A crumbling bridge lit by celestial light.
+The Lady and Her Wolves (painting) – A noblewoman flanked by ghostly canines.
+The Endless Staircase (painting) – A spiral stair reaching through clouds.
+The Fire That Whispers (painting) – A campfire surrounded by ethereal shapes.
+The Silent Court (painting) – Noble figures sit stiffly in total darkness.
+The Thief of Hearts (painting) – A cloaked figure with a bag full of glowing objects.
+The Rose of Thorns (painting) – A blood-red bloom tangled in sharp vines.
+The Sleeping City (painting) – An entire town slumbers under a twilight haze.
+Banner of the Hollow Host (painting) – A black standard waving in a dead land.
+The Widow’s Moon (painting) – A pale woman stands alone on a cliff, lit by moonlight.
+The Watcher in the Well (painting) – A single eye peers from deep within a stone well.
+The Cradle of Giants (painting) – Towering mountains shaped like slumbering forms.
+Ashes in the Snow (painting) – Scattered black flakes lie on fresh white ground.
+The Forgotten Temple (painting) – A moss-covered ziggurat lost in the jungle.
+The Fanged Crown (painting) – A king’s headpiece shaped from twisted bone.
+The Tomb of the Unburned (painting) – A stone sarcophagus sealed in frost.
+The Bridge of Cries (painting) – A rope bridge over a chasm filled with shadows.
+The Last Song of Lirael (painting) – A bard plays to a crowd of ghosts.
+The Mask of Mercy (painting) – A soft-eyed face carved from pale wood.
+The Crimson Orchard (painting) – Trees bearing red fruit with golden leaves.
+The Sky Shatters (painting) – A bolt of lightning splits a storm-wracked night.
+The Child and the Kraken (painting) – A child gazes calmly at a rising sea beast.
+Echoes of the Throne Room (painting) – An empty seat amid shattered glass.
+The Black Sun Rises (painting) – An eclipsed sun casts long shadows over a valley.
+The Vulture Queen (painting) – A regal woman crowned with feathers and skulls.
+The Book That Bled (painting) – A tome oozing dark ink onto ancient parchment.
+The Golden Eclipse (painting) – Light and shadow form intricate patterns on temple stones.
+The Jester’s Last Dance (painting) – A figure twirls with bloodied bells.
+Caverns of Candlelight (painting) – A subterranean hall filled with flickering flames.
+The Silent Duel (painting) – Two knights locked mid-strike, forever frozen.
+The Green Tower (painting) – Vines wrap a fortress overtaken by nature.
+The Howling Field (painting) – Wind bends tall grass under a stormy sky.
+Sister of the Flame (painting) – A woman prays amid a circle of burning candles.
+The Shattered Mask (painting) – A broken porcelain face lies on black silk.
+The Rider in Red (painting) – A lone horseman crosses a snow-covered ridge.
+The Feast of Shadows (painting) – Black silhouettes dine by candlelight.
+The Harvest That Never Came (painting) – Empty fields beneath a burning sky.
+The Hourglass Cracked (painting) – Sand leaks across a marble floor.
+The Beast of the Moor (painting) – Glowing eyes peer from tangled undergrowth.
+The River of Bones (painting) – A dry riverbed filled with ancient remains.
+The Star-Crowned Prophet (painting) – A mystic gazes upward, stars glimmer in her crown.
+The Witch’s Bargain (painting) – A twisted forest glade, two hands exchange a glowing vial.
+The Cathedral of Wings (painting) – A temple filled with stained glass and birds in flight.
+The Widow’s Garden (painting) – Overgrown tombstones hidden under blooming roses.
+Beneath the Hollow Hill (painting) – Fae shapes dance in a subterranean glen.
+The Iron Empress (painting) – A queen of cold eyes, clad in black armor.
+The Sorrows of Ashenhold (painting) – Ghosts rise from the ruins of a noble manor.
+The Clockmaker’s Folly (painting) – A room full of broken gears and dust-covered timepieces.
+The Crow King’s Court (painting) – A council of ravens perched on skeletal thrones.
+The Bell of Silence (painting) – A massive cracked bell hanging in a sunless cathedral.
+The Fire at Midwinter (painting) – A lone bonfire lit in deep snow.
+The Pale Rider’s Wake (painting) – A white horse passes through a ruined village.
+The Rose and the Pike (painting) – A flower impaled on a battlefield weapon.
+The Queen’s Mirror (painting) – A reflection shows a different woman than the one before it.
+The Mausoleum Choir (painting) – Silent monks in stone niches, mouths open in song.
+The Forgotten Throne (painting) – A seat of power crumbling under ivy and moss.
+The Crownless King (painting) – A shadowy figure walks away from a discarded crown.
+The River That Sings (painting) – Misty waters curl around glowing stones.
+The Lanternbearer (painting) – A cloaked wanderer holds a light that never dims.
+Silver serpent ring – Coiled snake design with emerald eyes.
+Moonstone pendant – Translucent gem glows softly in silver filigree.
+Runed torc – Thick brass neck-ring etched with ancient symbols.
+Gilded antler brooch – Bronze pin shaped like a stag’s antler, flecked with gold.
+Dragonfang necklace – A real fang capped in bronze and worn on a leather cord.
+Jeweled circlet – Thin gold band with sapphire centerpiece.
+Obsidian signet ring – Polished black stone carved with a crest.
+Twilight choker – Silk ribbon set with a single star-shaped diamond.
+Wyrm-scale earrings – Shimmering green scales framed in silver.
+Amber spider brooch – Preserved spider in honey-colored resin.
+Elven leaf pendant – Delicately shaped leaf of green enamel and silver.
+Garnet earcuff – Worn over the ear, adorned with red gems.
+Copper wire anklet – Braided with tiny bell charms.
+Runestone bracelet – Small carved stones linked with iron wire.
+Pearl drop earrings – Pale pearls suspended from thin gold hooks.
+Woven hair locket – Miniature braid sealed under glass.
+Sapphire teardrop pin – Blue gem mounted in dark iron.
+Knight’s chain – Short chainmail necklace with crest tag.
+Fire opal ring – Flickering orange gem in blackened steel.
+Sunburst pendant – Gold disc with radiating etching.
+Bronze fang ring – Thick ring with protruding animal fang.
+Iceflower brooch – Frost-colored crystal petals on silver stem.
+Witch’s knot choker – Leather band braided in a twisting pattern.
+Seaglass necklace – Ocean-smoothed fragments strung with twine.
+Thorned silver band – Sharp ridges mimic rose thorns.
+Mirror shard pendant – Irregular silver glass in a cage setting.
+Onyx stud earrings – Matte black stones with a rounded cut.
+Ivory spiral ring – Carved bone with swirling design.
+Gold feather brooch – Finely detailed plume pin.
+Turquoise charm chain – Tiny charms interspersed with blue stones.
+Crystal cluster ring – Raw quartz points set in copper.
+Sunstone bead necklace – Warm orange gems strung on gold wire.
+Leather-braided wristwrap – Stiff leather cord knotted into rows.
+Twin dragon torc – Two dragon heads meeting at the collarbone.
+Star-map pendant – Etched constellations on blackened silver.
+Blood ruby ring – Deep red gem with golden claw setting.
+Crescent moon diadem – Thin silver band with moon crest.
+Verdant vine pin – Green enamel vines curl over a golden bar.
+Chain of bells – Dozens of tiny silver bells on a fine chain.
+Obsidian shard brooch – Jagged black stone wrapped in bronze.
+Feathered earring – Long hawk feather bound in silver.
+Shell and bone anklet – Tribal-style piece with rustic beads.
+Lion’s head ring – Bold face sculpted in brass.
+Lapis lazuli circlet – Bright blue stones in a delicate crown.
+Steel nail necklace – War-forged spikes as pendants.
+Frosted crystal pin – Opaque white stone shaped like snowflake.
+Engraved band ring – Simple silver with internal lettering.
+Serpent-scale cuff – Wide armband with scale pattern.
+Runic earrings – Tiny stone slabs inscribed with glowing symbols.
+Chained coin necklace – Old coins linked by thin chain.
+Firefly lantern locket – Tiny glass orb with glowing resin.
+Sun-kissed collar – Layered gold bands shining with warmth.
+Opal vine ring – White opal encased in vinework.
+Raven feather pin – Black feather preserved in resin.
+Gilded bone bracelet – Real bone links coated in gold leaf.
+Moonlit crown – Silver circlet inlaid with milky gems.
+Dagger pendant – Miniature blade made from iron and ruby.
+Thistle brooch – Purple enamel flower with thorny detail.
+Spider-silk thread bracelet – Thin, near-invisible woven band.
+Star-shaped earring – Five-pointed gem with glittering finish.
+Obsidian tooth pendant – Shard cut to resemble a fang.
+Tarnished coin locket – Hollow coin hiding a compartment.
+Stag horn ring – Pale antler material carved into a smooth band.
+Phoenix feather brooch – Orange-gold enamel flare.
+Rose-gold anklet – Soft pink metal with twisted links.
+Black pearl pendant – Rare dark gem on a silver chain.
+Verdigris bronze necklace – Oxidized chain with green patina.
+Eagle’s eye ring – Gem cut to resemble a bird’s pupil.
+Glass droplet earring – Tear-shaped crystal with rainbow sheen.
+Twisting ivy armband – Wraps around arm like climbing vines.
+Amber fox-head pendant – Gem carved into cunning expression.
+Lava rock bracelet – Porous black stones on leather.
+Rune-burned charm – Wooden disc scorched with sigils.
+Skeletal hand pin – Delicate silver bones clutched in a claw.
+Gilded scale necklace – Iridescent dragon scale centerpiece.
+Bell-shaped earrings – Tiny bronze bells with leaf engraving.
+Windchime anklet – Multiple tiny rings that softly tinkle.
+Glass mosaic pendant – Colored shards fused in patterns.
+Banded iron circlet – Harsh, simple crown for warlords.
+Driftwood and shell necklace – Beach-worn natural materials.
+Mithril lace chain – Almost weightless and shines like stars.
+Tiger-eye ring – Chatoyant golden-brown stone in iron.
+Petal-shaped earcuff – Rose gold petals layered on the ear.
+Jeweled spider ring – Ruby-studded arachnid clutches the finger.
+Golden scale collar – Overlapping plates mimic armor.
+Cracked quartz brooch – Shimmering crystal with inner flaws.
+Enchanted glass orb ring – Miniature globe with cloudy swirl.
+Flame twist torc – Molten-looking pattern in bronze.
+Silk-threaded beads – Gemstones strung on colorful silk cord.
+Floral cameo pendant – Painted flower under glass in brass frame.
+Pearl vine diadem – Pale pearls woven into ivy-shaped band.
+Dragonbone cuff – Pale carved plate with tiny embedded rubies.
+Glacial charm – Ice-colored gemstone in platinum housing.
+Crown of thorns circlet – Twisted black metal with sharp prongs.
+Meteorite ring – Forged from star-metal, dark and heavy.
+Quartz shard earrings – Crystal slivers dangling from copper.
+Twine-wrapped gem – Rough gem bound in rope.
+Sunray earstuds – Radiating lines etched into gold.
+Wyrm-eye necklace – Yellow gem with slitted pupil pattern.
+Rune-inlaid armlet – Broad silver band with glowing blue glyphs.
+Gold ring with deep-cut ruby, engraved with vines.
+Platinum choker inlaid with star-shaped sapphires.
+Silver bracelet etched with runes and inset amethysts.
+Rose gold earrings with tear-shaped emerald drops.
+White gold locket with a single onyx gem at its center.
+Thick silver cuff ring, hammered and set with a citrine.
+Delicate platinum circlet, each point topped with aquamarine.
+Gold brooch in the shape of a stag, antlers tipped with garnets.
+Engraved silver torc with twisting knotwork and blue topaz studs.
+Silver chain necklace with small pearls spaced between links.
+Polished gold signet ring, engraved with a lion’s crest.
+Dual-band platinum ring with two interlocked sapphires.
+Gold pendant shaped like a crescent moon, holding a moonstone.
+Silver earrings with hanging ovals of deep red spinel.
+Thin gold diadem with a central emerald surrounded by filigree.
+Rose gold necklace with a quartz point set in a claw grip.
+Ornate platinum ring with a bezel-set fire opal.
+Wide silver choker engraved with sunburst patterns and yellow diamonds.
+Delicate gold anklet with tiny peridot charms.
+Silver ring with a polished amethyst, etched with wave patterns.
+Copper pendant shaped like a raven, set with a small garnet eye.
+Braided silver bracelet with tiny sapphire chips.
+Simple copper hoop earrings adorned with green peridot beads.
+Silver torc engraved with lunar runes and a central moonstone.
+Copper circlet with leaf motifs and embedded citrines.
+Silver locket with a turquoise inlay and spiral engraving.
+Hammered copper ring holding a round onyx.
+Silver chain anklet with aquamarine teardrops.
+Copper brooch shaped like a flame, mounted with carnelian.
+Thin silver earcuff etched with feather designs and set with opal.
+Copper bangle bracelet with tiger's eye studs around the band.
+Delicate silver necklace with a dangling bloodstone pendant.
+Copper spiral ring with engraved knotwork and no stones.
+Silver and garnet pendant shaped like a sword hilt.
+Twisted copper wire choker set with a smoky quartz.
+Silver earrings with small labradorite domes.
+Copper disc medallion etched with a stylized sun and inset amber.
+Silver anklet with four-pointed star charms and amethysts.
+Copper signet ring with a heraldic crest and ruby centerpiece.
+Silver brooch in the shape of a stag, with black spinel eyes.
+Copper chain necklace with lapis lazuli in a tear-shaped bezel.
+Silver leaf-shaped pin with embedded green tourmaline.
+Small copper hoop earrings with dangling opalite beads.
+Silver wrist cuff etched with ancient runes and a center obsidian.
+Gold-accented silver ring with a large oval sapphire.
+Copper ear stud shaped like a coiled snake with peridot eyes.
+Silver necklace with a crescent-shaped piece of rose quartz.
+Engraved copper ring with a flush-set pink zircon.
+Silver diadem with sun rays etched across the band.
+Copper chainmail-style bracelet inset with tiny amethysts.
+Silver coin pendant with a garnet at the center.
+Delicate copper wire earrings in leaf shapes with aquamarine stones.
+Silver ring engraved with flame motifs and topped with citrine.
+Copper disc earrings inlaid with small blue topaz.
+Silver spiral bracelet with subtle gold flecks and moonstone.
+Copper pendant shaped like a teardrop, filled with obsidian.
+Simple silver choker with an embedded star sapphire.
+Braided copper and silver chain necklace with a tourmaline.
+Silver earring cuffs with engraved scales and hematite studs.
+Copper signet ring with engraved ivy and a set of tiny pearls.
+Silver anklet with engraved crescent charms and tiny rubies.
+Woven copper pendant shaped like a tree with green zircon leaves.
+Silver chain with linked sun symbols, each with amber stones.
+Copper band ring with a single smoky quartz orb.
+Silver diadem engraved with stars and set with topaz.
+Copper leaf brooch with an inlaid carnelian vein.
+Wide silver cuff with floral etching and a cabochon aquamarine.
+Copper hoop earrings etched with water swirl motifs.
+Silver necklace with a spiral pendant and small turquoise bead.
+Copper bracelet with repeated owl-eye carvings and garnet pupils.
+Silver torque with lapis lazuli cabochons on each end.
+Copper diadem with three small zircon points.
+Silver pendant shaped like a dragon wing with a hematite drop.
+Twisted copper band with rose-cut spinel.
+Silver ear studs with pentagon-shaped green tourmalines.
+Thin copper choker engraved with wave-like etchings.
+Silver ring with a wide band and mounted labradorite.
+Copper necklace with three small opals on a braided chain.
+Silver spiral armlet with a central oval garnet.
+Copper pendant engraved with a tree of life and set with citrine.
+Silver brooch shaped like a rising sun and embedded ruby center.
+Hammered copper earrings with polished amber discs.
+Silver snake ring with sapphire eyes.
+Copper choker with scalloped edges and embedded moonstones.
+Silver chain necklace with small emeralds evenly spaced.
+Copper wire-wrapped bracelet with a large polished jasper.
+Silver ear hooks shaped like wings, with aquamarine insets.
+Engraved copper signet ring with a lion and citrine.
+Silver pendant shaped like a shield with inlaid peridot.
+Copper band ring hammered to a matte finish, with ruby inlay.
+Silver torque with knotted ends and sapphire eyes.
+Flat copper brooch shaped like a falling leaf with opal detail.
+Silver wrist chain with sunburst links and small topaz.
+Coiled copper armlet with three oval amethysts set along the spiral.
+Silver ring engraved with celestial maps and onyx accents.
+Copper chain necklace with a polished agate slice pendant.
+Silver teardrop earrings with lapis lazuli set in engraved frames.
+Woven copper finger ring with green tourmaline bead.
+Silver chain with hanging diamond-shaped rose quartz.
+Copper medallion with zodiac-style engravings and garnet.
+Silver diadem with etched antlers and amber stones.
+Copper ring with polished hematite dome and spiral carvings.
+Silver earcuff shaped like a coiled vine, with tiny rubies.
+Copper pendant shaped like a raven feather with citrine.
+Silver ring with a double-band and inlaid amethyst triangle.
+Thin copper bracelet with etched thorn pattern and black spinel.
+Silver hairpin with a moonstone orb top.
+Copper necklet shaped like a flame, with topaz set at the center.
+Silver brooch shaped like a swirl of wind with turquoise.
+Copper armband with embossed flames and lapis gems.
+Silver ring with open shoulders and green tourmaline setting.
+Copper sunburst earrings with amber domes.
+Silver chainmail-style necklace with garnets interwoven.
+Coiled copper snake pendant with engraved scales and ruby eyes.
+Silver finger ring shaped like a crown and topped with a pearl.
+Copper brooch with etched labyrinth and hematite center.
+Silver pendant shaped like a spiral galaxy with tiny sapphires.
+Thin copper choker with two claw-shaped citrines.
+Silver necklace with a single opal, framed in a sunburst bezel.

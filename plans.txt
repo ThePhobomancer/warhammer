@@ -1,0 +1,27 @@
+The Experimental branch is here to seperate the files from the main teaching branch.
+
+Mini-projects and pieces to create and test on the experimental branch
+1. random name generator
+    ## men
+    ## women
+    dwarf
+    elf
+    halfling
+    gnome
+    ogre
+    monster
+2. random stat roller
+    ## human
+    ## dwarf
+    ## elf
+    ## halfling
+    gnome
+    ogre
+3. random class and career selector
+4. random race
+    randomly select racial skills and talents
+5. generate placement of advances - following career advancement logic
+    have linked career skills, characteristics and talents
+6. monster stat boosts - applying templates to monsters
+7. random corruption - what physical or mental corruptions are on NPCs or monsters
+8. random grouped skills - Selecting which lore or craft skill is known
