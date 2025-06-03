@@ -52,4 +52,4 @@ for i in range(0,random.randint(1,7)):
 
 for item in room_contents:
     print(item)
-#print(room_contents)
+#prints room contents with each element being on a new line
