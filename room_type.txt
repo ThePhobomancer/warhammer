@@ -1,0 +1,100 @@
+Great Hall
+Solar (private family room)
+Bedchamber (lord's bedroom)
+Lady’s Bower (lady’s private chamber)
+Privy Chamber (private audience room)
+Wardrobe (also used as a small chamber or office)
+Nursery
+Antechamber
+Guest Room
+Retiring Room
+Chamberlain’s Room
+Pages’ Room
+Servants' Quarters
+Family Chapel
+Banqueting Hall
+Closet (small private room or prayer room)
+Library
+Sitting Room
+Guardroom (nobles’ guards)
+Noble Children's Room
+Kitchen
+Pantry (food storage)
+Buttery (drink and ale storage)
+Larder (cold food storage)
+Scullery (cleaning and dishwashing)
+Bakehouse
+Brewhouse
+Dairy Room
+Stillroom (herbal and medicinal preparations)
+Laundry Room
+Storeroom
+Salt Room
+Meat Safe
+Ice House
+Wine Cellar
+Ale Cellar
+Root Cellar
+Wood Store
+Coal Room
+Herbarium (herb-drying and storage room)
+Gatehouse
+Guardroom
+Armory
+Barracks
+Watch Room
+Bastion
+Towers (various named ones)
+Barbican
+Curtain Wall Walk (parapet walkway)
+Portcullis Room (machinery)
+Drum Tower Room
+Dungeon (prison)
+Oubliette (hidden dungeon)
+Strategic Overlook
+Siege Store Room
+Weapons Cache
+Messenger’s Room
+Arrow Loop Alcove
+Sentry Post
+Lookout Room
+Chapel
+Oratory (private chapel)
+Sacristy (storage for sacred items)
+Vestry (clergy preparation room)
+Monk’s Cell
+Chapter House
+Cloister Walk (covered walkway around a courtyard)
+Shrine Room
+Reliquary Room
+Meditation Room
+Smithy
+Mason’s Yard
+Carpenter’s Workshop
+Armourer’s Forge
+Tailor’s Room
+Candlemaker’s Room
+Cobbler’s Room
+Scriptorium (manuscript copying)
+Tannery
+Pottery Room
+Steward’s Office
+Clerk’s Room
+Scribe’s Room
+Records Room
+Courtroom (used in larger castles)
+Treasury
+Council Chamber
+Map Room
+Tax Room
+Archive Room
+Garderobe (latrine)
+Bath House
+Washroom
+Rainwater Collection Room
+Well Room
+Cloaca Room (sewage outlet)
+Servants’ Bathing Room
+Latrine Tower
+Cesspit Room
+Midden Room (refuse storage)
