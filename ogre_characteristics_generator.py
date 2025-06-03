@@ -1,4 +1,4 @@
-#!/use/bin/env python
+#!/usr/bin/env python
 ## Generate Dwarven character characteristics. Due to hard coded
 import random
 

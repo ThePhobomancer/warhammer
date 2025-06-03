@@ -1,0 +1,8 @@
+Apothecary 1 - Apothecary’s Apprentice, Consume Alcohol, Heal, Language (Classical), Lore (Chemistry), Lore (Medicine), Lore (Plants), Trade (Apothecary), Trade (Poisoner), Concoct, Craftsman (Apothecary), Etiquette (Scholar), Read/Write
+Engineer 1 - Student Engineer, Consume Alcohol, Cool, Endurance, Language (Classical), Lore (Engineer), Perception, Ranged (Blackpowder), Trade (Engineer), Artistic, Gunner, Read/Write, Tinker
+Lawyer 1 - Student Lawyer, Consume Alcohol, Endurance, Haggle, Language (Classical), Lore (Law), Lore (Theology), Perception, Research, Blather, Etiquette (Scholar), Read/Write, Speedreader
+Nun 1 - Novitiate, Art (Calligraphy), Cool, Endurance, Entertain (Storyteller), Gossip, Heal, Lore (Theology), Pray, Bless (Any), Stone Soup, Panhandle, Read/Write
+Physician 1 - Physician’s Apprentice, Bribery, Cool, Drive, Endurance, Gossip, Heal, Perception, Sleight of Hand, Bookish, Field Dressing, Read/Write, Strike to Stun
+Priest 1 - Initiate, Athletics, Cool, Endurance, Intuition, Lore (Theology), Perception, Pray, Research, Bless (Any), Holy Visions, Read/Write, Suave
+Scholar 1 - Student, Consume Alcohol, Entertain (Storytelling), Gamble, Gossip, Haggle, Language (Classical), Lore (Any), Research, Carouser, Read/Write, Savvy, Super Numerate
+Wizard 1 - Wizard’s Apprentice, Channelling (Any Colour), Dodge, Intuition, Language (Magick), Lore (Magic), Melee (Basic), Melee (Polearm), Perception, Aethyric Attunement, Petty Magic, Read/Write, Second Sight
