@@ -1,0 +1,102 @@
+Torch
+Candle sconce
+Chandelier
+Tapestry
+Rug
+Shield (displayed)
+Suit of armor
+Weapon rack
+Banner
+Goblet (abandoned)
+Scroll case
+Bench
+Chest
+Stool
+Mirror
+Table
+Lantern
+Brazier
+Bookshelf
+Vase
+Wall hook
+Iron key (hung or dropped)
+Grate
+Cloak rack
+Trapdoor
+Crate
+Barrel
+Altar (small)
+Icon or idol
+Holy symbol
+Bones or skull
+Painting or portrait
+Chain
+Rope
+Trap mechanism
+Clockwork device
+Bell
+Carpet runner
+Loose tile
+Oil lamp
+Magic rune stone
+Amulet on a pedestal
+Bookstand
+Heraldic crest
+Scroll (mounted or unrolled)
+Offering bowl
+Broken sword
+Candle wax drippings
+Rat trap
+Pile of dust or ash
+Archway
+Vaulted ceiling
+Groin vaults
+Buttress
+Column
+Alcove
+Niche
+Secret door
+Trapdoor
+Spiral stairway
+Wall-mounted torch holders
+Iron sconces
+Arrow slit
+Peephole
+Murder hole
+Portcullis
+Guard station
+Moat overlook
+Sloped floor
+Creaking floorboards
+Stone floor
+Flagstone path
+Wall mural
+Damp wall
+Cracked ceiling
+Mold patches
+Water drip
+Smoke stain
+Ceiling beam
+Loose stone
+Echoing acoustics
+Drafty corridor
+Hanging moss
+Cobwebs
+Magic ward (glowing)
+Hidden compartment
+Runes etched into stone
+Dusty footprints
+Iron grate in floor
+Faded symbols
+Collapsing wall
+Broken arch
+Stair landing
+Arrow groove
+Hinged wall panel
+Magical sigil
+Flickering light source
+Chain pull mechanism
+Guard post alcove
+Pit Trap
+Projectile Trap
+Poison Trap

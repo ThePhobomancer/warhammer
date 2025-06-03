@@ -1,4 +1,4 @@
-The Experimental branch is here to seperate the files from the main teaching branch.
+The repo is for creating a number of small tools to improve the WFRP GM experience.
 
 Mini-projects and pieces to create and test on the experimental branch
 1. random name generator
