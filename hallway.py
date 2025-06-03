@@ -10,6 +10,23 @@ size = random.randint(1,10)
 hall_length = size * 10
 doorways = random.randint(0,size) + 1
 
+hall_shape = "The hall "
+hall_shape_type = random.randint(1,10)
+if hall_shape_type == 10:
+    hall_shape += "is curved"
+elif hall_shape_type == 9:
+    hall_shape += "is cross shaped"
+elif hall_shape_type == 8:
+    hall_shape += "is T shaped"
+elif hall_shape_type == 7 | hall_shape_type == 6:
+    hall_shape += "turns right"
+elif hall_shape_type == 5 | hall_shape_type == 4:
+    hall_shape += "turns left"
+elif hall_shape_type <= 4:
+    hall_shape += "is straight"
+
+
+
 hall_style = []
 with open('hall_style.txt', 'r') as file_style:
     for line in file_style:
@@ -32,6 +49,7 @@ for i in range(0,random.randint(1,7)):
 
 print("The hallway is " + hall_description)
 print("The hallway is ", hall_length, " feet long, with ", doorways, " doorways")
+print(hall_shape)
 print("The hall has:")
 for item in hall_objs:
     print("  ", item)
