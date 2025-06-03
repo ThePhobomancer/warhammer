@@ -12,6 +12,7 @@ doorways = random.randint(0,size) + 1
 
 hall_shape = "The hall "
 hall_shape_type = random.randint(1,10)
+
 if hall_shape_type == 10:
     hall_shape += "is curved"
 elif hall_shape_type == 9:
