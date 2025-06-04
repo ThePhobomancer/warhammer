@@ -14,3 +14,8 @@ Merchant 1 - Trader, Animal Care, Bribery, Charm, Consume Alcohol, Drive, Gamble
 Rat Catcher 1 - Rat Hunter, Athletics, Animal Training (Dog), Charm Animal, Consume Alcohol, Endurance, Melee (Basic), Ranged (Sling), Stealth (Underground or Urban), Night Vision, Resistance (Disease), Strike Mighty Blow, Strike to Stun
 Townsman 1 - Clerk, Charm, Climb, Consume Alcohol, Drive, Dodge, Gamble, Gossip, Haggle, Alley Cat, Beneath Notice, Etiquette (Servants), Sturdy
 Watchman 1 - Watch Recruit, Athletics, Climb, Consume Alcohol, Dodge, Endurance, Gamble, Melee (Any), Perception, Drilled, Hardy, Strike to Stun, Tenacious
+Advisor 1 - Aide, Bribery, Consume Alcohol, Endurance, Gossip, Haggle, Language (Classical), Lore (Politics), Perception, Beneath Notice, Etiquette (Any), Gregarious, Read/Write
+Artist 1 - Apprentice Artist, Art (Any), Cool, Consume Alcohol, Evaluate, Endurance, Gossip, Perception, Stealth (Urban), Artistic, Sharp, Strong Back, Tenacious
+Duellist 1 - Fencer, Athletics, Dodge, Endurance, Heal, Intuition, Language (Classical), Melee (Any), Perception, Beat Blade, Distract, Feint, Step Aside
+Envoy 1 - Herald, Athletics, Charm, Drive, Dodge, Endurance, Intuition, Ride (Horse), Row, Blather, Etiquette (Nobles), Read/Write, Suave
+Noble 1 - Scion, Bribery, Consume Alcohol, Gamble, Intimidate, Leadership, Lore (Heraldry), Melee (Fencing), Play (Any), Etiquette (Nobles), Luck, Noble Blood, Read/Write
