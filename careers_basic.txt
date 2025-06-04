@@ -6,3 +6,5 @@ Physician 1 - Physician’s Apprentice, Bribery, Cool, Drive, Endurance, Gossip,
 Priest 1 - Initiate, Athletics, Cool, Endurance, Intuition, Lore (Theology), Perception, Pray, Research, Bless (Any), Holy Visions, Read/Write, Suave
 Scholar 1 - Student, Consume Alcohol, Entertain (Storytelling), Gamble, Gossip, Haggle, Language (Classical), Lore (Any), Research, Carouser, Read/Write, Savvy, Super Numerate
 Wizard 1 - Wizard’s Apprentice, Channelling (Any Colour), Dodge, Intuition, Language (Magick), Lore (Magic), Melee (Basic), Melee (Polearm), Perception, Aethyric Attunement, Petty Magic, Read/Write, Second Sight
+Agitator 1 - Pamphleteer, Art (Writing), Bribery, Charm, Consume Alcohol, Gossip, Haggle, Lore (Politics), Trade (Printing), Blather, Gregarious, Panhandle, Read/Write
+Artisan 1 - Apprentice Artisan, Athletics, Cool, Consume Alcohol, Dodge, Endurance, Evaluate, Stealth (Urban), Trade (Any), Artistic, Craftsman (any), Strong Back, Very Strong
