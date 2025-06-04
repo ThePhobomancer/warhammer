@@ -8,3 +8,9 @@ Scholar 1 - Student, Consume Alcohol, Entertain (Storytelling), Gamble, Gossip, 
 Wizard 1 - Wizard’s Apprentice, Channelling (Any Colour), Dodge, Intuition, Language (Magick), Lore (Magic), Melee (Basic), Melee (Polearm), Perception, Aethyric Attunement, Petty Magic, Read/Write, Second Sight
 Agitator 1 - Pamphleteer, Art (Writing), Bribery, Charm, Consume Alcohol, Gossip, Haggle, Lore (Politics), Trade (Printing), Blather, Gregarious, Panhandle, Read/Write
 Artisan 1 - Apprentice Artisan, Athletics, Cool, Consume Alcohol, Dodge, Endurance, Evaluate, Stealth (Urban), Trade (Any), Artistic, Craftsman (any), Strong Back, Very Strong
+Beggar 1 - Pauper, Athletics, Charm, Consume Alcohol, Cool, Dodge, Endurance, Intuition, Stealth (Urban), Panhandle, Resistance (Disease), Stone Soup, Very Resilient
+Investigator 1 - Sleuth, Charm, Climb, Cool, Gossip, Intuition, Perception, Stealth (Urban), Track, Alley Cat, Beneath Notice, Read/Write, Sharp
+Merchant 1 - Trader, Animal Care, Bribery, Charm, Consume Alcohol, Drive, Gamble, Gossip, Haggle, Blather, Dealmaker, Read/Write, Suave
+Rat Catcher 1 - Rat Hunter, Athletics, Animal Training (Dog), Charm Animal, Consume Alcohol, Endurance, Melee (Basic), Ranged (Sling), Stealth (Underground or Urban), Night Vision, Resistance (Disease), Strike Mighty Blow, Strike to Stun
+Townsman 1 - Clerk, Charm, Climb, Consume Alcohol, Drive, Dodge, Gamble, Gossip, Haggle, Alley Cat, Beneath Notice, Etiquette (Servants), Sturdy
+Watchman 1 - Watch Recruit, Athletics, Climb, Consume Alcohol, Dodge, Endurance, Gamble, Melee (Any), Perception, Drilled, Hardy, Strike to Stun, Tenacious
