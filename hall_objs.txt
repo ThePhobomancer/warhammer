@@ -4,7 +4,12 @@ Chandelier
 Tapestry
 Rug
 Shield (displayed)
-Suit of armor
+Statue Human
+Statue Animal
+Statue Bust
+Frieze Military
+Frieze Religious
+Frieze Everyday Life
 Weapon rack
 Banner
 Goblet (abandoned)
