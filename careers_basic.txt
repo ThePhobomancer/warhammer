@@ -1,21 +1,21 @@
-Apothecary 1 - Apothecary’s Apprentice, Consume Alcohol, Heal, Language (Classical), Lore (Chemistry), Lore (Medicine), Lore (Plants), Trade (Apothecary), Trade (Poisoner), Concoct, Craftsman (Apothecary), Etiquette (Scholar), Read/Write
-Engineer 1 - Student Engineer, Consume Alcohol, Cool, Endurance, Language (Classical), Lore (Engineer), Perception, Ranged (Blackpowder), Trade (Engineer), Artistic, Gunner, Read/Write, Tinker
-Lawyer 1 - Student Lawyer, Consume Alcohol, Endurance, Haggle, Language (Classical), Lore (Law), Lore (Theology), Perception, Research, Blather, Etiquette (Scholar), Read/Write, Speedreader
-Nun 1 - Novitiate, Art (Calligraphy), Cool, Endurance, Entertain (Storyteller), Gossip, Heal, Lore (Theology), Pray, Bless (Any), Stone Soup, Panhandle, Read/Write
-Physician 1 - Physician’s Apprentice, Bribery, Cool, Drive, Endurance, Gossip, Heal, Perception, Sleight of Hand, Bookish, Field Dressing, Read/Write, Strike to Stun
-Priest 1 - Initiate, Athletics, Cool, Endurance, Intuition, Lore (Theology), Perception, Pray, Research, Bless (Any), Holy Visions, Read/Write, Suave
-Scholar 1 - Student, Consume Alcohol, Entertain (Storytelling), Gamble, Gossip, Haggle, Language (Classical), Lore (Any), Research, Carouser, Read/Write, Savvy, Super Numerate
-Wizard 1 - Wizard’s Apprentice, Channelling (Any Colour), Dodge, Intuition, Language (Magick), Lore (Magic), Melee (Basic), Melee (Polearm), Perception, Aethyric Attunement, Petty Magic, Read/Write, Second Sight
-Agitator 1 - Pamphleteer, Art (Writing), Bribery, Charm, Consume Alcohol, Gossip, Haggle, Lore (Politics), Trade (Printing), Blather, Gregarious, Panhandle, Read/Write
-Artisan 1 - Apprentice Artisan, Athletics, Cool, Consume Alcohol, Dodge, Endurance, Evaluate, Stealth (Urban), Trade (Any), Artistic, Craftsman (any), Strong Back, Very Strong
-Beggar 1 - Pauper, Athletics, Charm, Consume Alcohol, Cool, Dodge, Endurance, Intuition, Stealth (Urban), Panhandle, Resistance (Disease), Stone Soup, Very Resilient
-Investigator 1 - Sleuth, Charm, Climb, Cool, Gossip, Intuition, Perception, Stealth (Urban), Track, Alley Cat, Beneath Notice, Read/Write, Sharp
-Merchant 1 - Trader, Animal Care, Bribery, Charm, Consume Alcohol, Drive, Gamble, Gossip, Haggle, Blather, Dealmaker, Read/Write, Suave
-Rat Catcher 1 - Rat Hunter, Athletics, Animal Training (Dog), Charm Animal, Consume Alcohol, Endurance, Melee (Basic), Ranged (Sling), Stealth (Underground or Urban), Night Vision, Resistance (Disease), Strike Mighty Blow, Strike to Stun
-Townsman 1 - Clerk, Charm, Climb, Consume Alcohol, Drive, Dodge, Gamble, Gossip, Haggle, Alley Cat, Beneath Notice, Etiquette (Servants), Sturdy
-Watchman 1 - Watch Recruit, Athletics, Climb, Consume Alcohol, Dodge, Endurance, Gamble, Melee (Any), Perception, Drilled, Hardy, Strike to Stun, Tenacious
-Advisor 1 - Aide, Bribery, Consume Alcohol, Endurance, Gossip, Haggle, Language (Classical), Lore (Politics), Perception, Beneath Notice, Etiquette (Any), Gregarious, Read/Write
-Artist 1 - Apprentice Artist, Art (Any), Cool, Consume Alcohol, Evaluate, Endurance, Gossip, Perception, Stealth (Urban), Artistic, Sharp, Strong Back, Tenacious
-Duellist 1 - Fencer, Athletics, Dodge, Endurance, Heal, Intuition, Language (Classical), Melee (Any), Perception, Beat Blade, Distract, Feint, Step Aside
-Envoy 1 - Herald, Athletics, Charm, Drive, Dodge, Endurance, Intuition, Ride (Horse), Row, Blather, Etiquette (Nobles), Read/Write, Suave
-Noble 1 - Scion, Bribery, Consume Alcohol, Gamble, Intimidate, Leadership, Lore (Heraldry), Melee (Fencing), Play (Any), Etiquette (Nobles), Luck, Noble Blood, Read/Write
+Apothecary 1, Apothecary’s Apprentice, Brass 3, Trade (Apothecary), Consume Alcohol, Heal, Language (Classical), Lore (Chemistry), Lore (Medicine), Lore (Plants), Trade (Poisoner), Concoct, Craftsman (Apothecary), Etiquette (Scholar), Read/Write
+Engineer 1, Student Engineer, Brass 4, Trade (Engineer), Consume Alcohol, Cool, Endurance, Language (Classical), Lore (Engineer), Perception, Ranged (Blackpowder), Artistic, Gunner, Read/Write, Tinker
+Lawyer 1, Student Lawyer, Brass 4, Lore (Law), Consume Alcohol, Endurance, Haggle, Language (Classical), Lore (Theology), Perception, Research, Blather, Etiquette (Scholar), Read/Write, Speedreader
+Nun 1, Novitiate, Brass 1, Lore (Theology), Art (Calligraphy), Cool, Endurance, Entertain (Storyteller), Gossip, Heal, Pray, Bless (Any), Stone Soup, Panhandle, Read/Write
+Physician 1, Physician’s Apprentice, Brass 4, Heal, Bribery, Cool, Drive, Endurance, Gossip, Perception, Sleight of Hand, Bookish, Field Dressing, Read/Write, Strike to Stun
+Priest 1, Initiate, Brass 2, Pray, Athletics, Cool, Endurance, Intuition, Lore (Theology), Perception, Research, Bless (Any), Holy Visions, Read/Write, Suave
+Scholar 1, Student, Brass 3, Lore (Any), Consume Alcohol, Entertain (Storytelling), Gamble, Gossip, Haggle, Language (Classical), Research, Carouser, Read/Write, Savvy, Super Numerate
+Wizard 1, Wizard’s Apprentice, Brass 3, Language (Magick), Channelling (Any Colour), Dodge, Intuition, Lore (Magic), Melee (Basic), Melee (Polearm), Perception, Aethyric Attunement, Petty Magic, Read/Write, Second Sight
+Agitator 1, Pamphleteer, Brass 1, Charm, Art (Writing), Bribery, Consume Alcohol, Gossip, Haggle, Lore (Politics), Trade (Printing), Blather, Gregarious, Panhandle, Read/Write
+Artisan 1, Apprentice Artisan, Brass 2, Trade (Any), Athletics, Cool, Consume Alcohol, Dodge, Endurance, Evaluate, Stealth (Urban), Artistic, Craftsman (any), Strong Back, Very Strong
+Beggar 1, Pauper, Brass 0, Charm, Athletics, Consume Alcohol, Cool, Dodge, Endurance, Intuition, Stealth (Urban), Panhandle, Resistance (Disease), Stone Soup, Very Resilient
+Investigator 1, Sleuth, Silver 1, Perception, Charm, Climb, Cool, Gossip, Intuition, Stealth (Urban), Track, Alley Cat, Beneath Notice, Read/Write, Sharp
+Merchant 1, Trader, Silver 2, Haggle, Animal Care, Bribery, Charm, Consume Alcohol, Drive, Gamble, Gossip, Blather, Dealmaker, Read/Write, Suave
+Rat Catcher 1, Rat Hunter, Brass 3, Melee (Basic), Athletics, Animal Training (Dog), Charm Animal, Consume Alcohol, Endurance, Ranged (Sling), Stealth (Underground or Urban), Night Vision, Resistance (Disease), Strike Mighty Blow, Strike to Stun
+Townsman 1, Clerk, Silver 1, Haggle, Charm, Climb, Consume Alcohol, Drive, Dodge, Gamble, Gossip, Alley Cat, Beneath Notice, Etiquette (Servants), Sturdy
+Watchman 1, Watch Recruit, Brass 3, Perception, Athletics, Climb, Consume Alcohol, Dodge, Endurance, Gamble, Melee (Any), Drilled, Hardy, Strike to Stun, Tenacious
+Advisor 1, Aide, Silver 2, Lore (Politics), Bribery, Consume Alcohol, Endurance, Gossip, Haggle, Language (Classical), Perception, Beneath Notice, Etiquette (Any), Gregarious, Read/Write
+Artist 1, Apprentice Artist, Silver 1, Art (Any), Cool, Consume Alcohol, Evaluate, Endurance, Gossip, Perception, Stealth (Urban), Artistic, Sharp, Strong Back, Tenacious
+Duellist 1, Fencer, Silver 3, Melee (Any), Athletics, Dodge, Endurance, Heal, Intuition, Language (Classical), Perception, Beat Blade, Distract, Feint, Step Aside
+Envoy 1, Herald, Silver 2, Charm, Athletics, Drive, Dodge, Endurance, Intuition, Ride (Horse), Row, Blather, Etiquette (Nobles), Read/Write, Suave
+Noble 1, Scion, Gold 1, Leadership, Bribery, Consume Alcohol, Gamble, Intimidate, Lore (Heraldry), Melee (Fencing), Play (Any), Etiquette (Nobles), Luck, Noble Blood, Read/Write
