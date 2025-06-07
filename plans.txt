@@ -15,13 +15,20 @@ Mini-projects and pieces to create and test on the experimental branch
     ## dwarf
     ## elf
     ## halfling
-    gnome
-    ogre
+    ## gnome
+    ## ogre
 3. random class and career selector
+    Basic completed career
+    Advanced to higher career level ( 2, 3, 4 )
+    multiple career path (basic -> advanced -> new basic -> new advanced)
+    randomly assigned skill points
+    sensible talent selection (Core talents like petty magic, criminal, miracles. Multiple levels of talents based on limits)
 4. random race
     randomly select racial skills and talents
+    random descriptions
 5. generate placement of advances - following career advancement logic
     have linked career skills, characteristics and talents
 6. monster stat boosts - applying templates to monsters
+    give monsters common skills
 7. random corruption - what physical or mental corruptions are on NPCs or monsters
 8. random grouped skills - Selecting which lore or craft skill is known

@@ -19,3 +19,15 @@ Artist 1, Apprentice Artist, Silver 1, Art (Any), Cool, Consume Alcohol, Evaluat
 Duellist 1, Fencer, Silver 3, Melee (Any), Athletics, Dodge, Endurance, Heal, Intuition, Language (Classical), Perception, Beat Blade, Distract, Feint, Step Aside
 Envoy 1, Herald, Silver 2, Charm, Athletics, Drive, Dodge, Endurance, Intuition, Ride (Horse), Row, Blather, Etiquette (Nobles), Read/Write, Suave
 Noble 1, Scion, Gold 1, Leadership, Bribery, Consume Alcohol, Gamble, Intimidate, Lore (Heraldry), Melee (Fencing), Play (Any), Etiquette (Nobles), Luck, Noble Blood, Read/Write
+Servant 1, Menial, Silver 1, Endurance, Athletics, Climb, Drive, Dodge, Intuition, Perception, Stealth (Any), Beneath Notice, Strong Back, Strong-minded, Sturdy
+Spy 1, Informer, Brass 3, Gossip, Bribery, Charm, Cool, Gamble, Haggle, Perception, Stealth (Any), Blather, Carouser, Gregarious, Shadow
+Warden 1, Custodian, Silver 1, Perception, Athletics, Charm Animal, Consume Alcohol, Cool, Endurance, Intuition, Lore (Local), Menacing, Night Vision, Sharp, Strike to Stun
+Bailiff 1, Tax Collector, Silver 1, Intimidate, Cool, Dodge, Endurance, Gossip, Haggle, Melee (Basic), Perception, Embezzle, Numismatics, Strong Back, Tenacious
+Hedge Witch 1, Hedge Apprentice, Brass 1, Intuition, Channelling, Endurance, Language (Magick), Lore (Folklore), Lore (Herbs), Outdoor Survival, Perception, Fast Hands, Petty Magic, Rover, Strider (Woodlands)
+Herbalist 1, Herb Gatherer, Brass 2, Trade (Herbalist), Charm Animal, Climb, Endurance, Lore (Herbs), Outdoor Survival, Perception, Swim, Acute Sense (Taste), Orientation, Rover, Strider (any)
+Hunter 1, Trapper, Brass 2, Outdoor Survival, Charm Animal, Climb, Endurance, Lore (Beasts), Perception, Ranged (Sling), Set Trap, Hardy, Rover, Strider (any), Trapper
+Miner 1, Prospector, Brass 2, Melee (Two-handed), Cool, Endurance, Intuition, Lore (Local), Outdoor Survival, Perception, Swim, Rover, Strider (Rocky), Sturdy, Tenacious
+Mystic 1, Fortune Teller, Intuition, Charm, Entertain (Fortune Telling), Dodge, Gossip, Haggle, Perception, Sleight of Hand, Attractive, Luck, Second Sight, Suave
+Scout 1, Guide, Brass 3, Perception, Charm Animal, Climb, Endurance, Gossip, Lore (Local), Melee (Basic), Outdoor Survival, Orientation, Rover, Sharp, Strider (any)
+Villager 1, Peasant, Brass 2, Endurance, Animal Care, Athletics, Consume Alcohol, Gossip, Melee (Brawling), Lore (Local), Outdoor Survival, Rover, Strong Back, Strong-minded, Stone Soup
+
