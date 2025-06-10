@@ -1,0 +1,45 @@
+animal care, int
+animal training, int
+art, dex
+athletics, ag
+bribery, fel
+channeling, wp
+charm, fel
+charm animal, wp
+climb, s
+consume alcohol, t
+cool, wp 
+dodge, ag 
+drive, ag
+endurance, t
+entertain, fel
+evaluate, int
+gamble, int
+gossip, fel 
+haggle, fel
+heal, int
+intimidate, s
+intuition, i
+language, int
+leadership, fel
+lore, int 
+melee, ws 
+navigation, i
+outdoor survival, int
+perception, i 
+perfrom, ag
+pick lock, dex
+play, dex
+pray, fel
+ranged, bs
+research, int
+ride, ag
+row, s
+sail, ag
+secret signs, int
+set trap, dex
+sleight of hand, dex
+stealth, ag
+swim, s
+track, i
+trade, dex
