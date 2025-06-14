@@ -5,6 +5,9 @@ import random
 #Creates a matrix and sets each line to the first career level
 career_line = [[]]
 
+#The Career_basics file has the format: 
+#Career Name 1, Career Title, Status, Income skill, skill, skill, skill, skill, skill, skill, skill, talent, talent, talent, talent
+#This provides all the core information of the first career level in these skills. Except for characteristics.
 with open("careers_basic.txt", "r") as file:
     for line in file:
         career_line.append(line.strip().split(","))

@@ -30,4 +30,35 @@ Miner 1, Prospector, Brass 2, Melee (Two-handed), Cool, Endurance, Intuition, Lo
 Mystic 1, Fortune Teller, Intuition, Charm, Entertain (Fortune Telling), Dodge, Gossip, Haggle, Perception, Sleight of Hand, Attractive, Luck, Second Sight, Suave
 Scout 1, Guide, Brass 3, Perception, Charm Animal, Climb, Endurance, Gossip, Lore (Local), Melee (Basic), Outdoor Survival, Orientation, Rover, Sharp, Strider (any)
 Villager 1, Peasant, Brass 2, Endurance, Animal Care, Athletics, Consume Alcohol, Gossip, Melee (Brawling), Lore (Local), Outdoor Survival, Rover, Strong Back, Strong-minded, Stone Soup
-
+Bounty Hunter 1, Thief-taker, Silver 1, Melee (Basic), Bribery, Charm, Gossip, Haggle, Intuition, Outdoor Survival, Perception, Break and Enter, Shadow, Strike to Stun, Suave
+Coachman 1, Postilion, Silver 1, Drive, Animal Care, Charm Animal, Climb, Endurance, Perception, Ranged (Entangling), Ride (Horse), Animal Affinity, Seasoned Traveller, Trick-Riding, Tenacious
+Entertainer 1, Busker, Brass 3, Entertain (Any), Athletics, Charm, Gossip, Haggle, Perform (Any), Play (any), Sleight of Hand, Attractive, Mimic, Public-Speaking, Suave
+Flagellant 1, Zealot, Brass 0, Melee (Flail), Dodge, Endurance, Heal, Intimidate, Intuition, Lore (Sigmar), Outdoor Survival, Berserk Charge, Frenzy, Read/Write, Stone Soup
+Messenger 1, Runner, Brass 3, Endurance, Athletics, Climb, Dodge, Gossip, Navigation, Perception, Melee (Brawling), Flee!, Fleet Footed, Sprinter, Step Aside
+Pedlar 1, Vagabond, Brass 1, Charm, Endurance, Entertain (Storytelling), Gossip, Haggle, Intuition, Outdoor Survival, Stealth (Rural or Urban), Fisherman, Flee!, Rover, Tinker
+Road Warden 1, Toll Keeper, Brass 5, Perception, Bribery, Consume Alcohol, Gamble, Gossip, Haggle, Melee (Basic), Ranged (Crossbow), Coolheaded, Embezzle, Marksman, Numismatics
+Witch Hunter 1, Interrogator, Silver 1, Intimidate, Charm, Consume Alcohol, Heal, Intuition, Lore (Torture), Melee (Brawling), Perception, Coolheaded, Menacing, Read/Write, Resolute
+Boatman 1, Boat-hand, Silver 1, Sail, Consume Alcohol, Dodge, Endurance, Gossip, Melee (Brawling), Row, Swim, Dirty Fighting, Fisherman, Strong Back, Strong Swimmer
+Huffer 1, Riverguide, Brass 4, Lore (Riverways), Consume Alcohol, Gossip, Intuition, Lore (Local), Perception, Row, Swim, Fisherman, Night Vision, Orientation, Waterman
+Riverwarden 1, River Recruit, Silver 1, Melee (Basic), Athletics, Dodge, Endurance, Perception, Row, Sail, Swim, Strong Swimmer, Strong Back, Very Strong, Waterman
+Riverwoman 1, Greenfish, Brass 2, Endurance, Athletics, Consume Alcohol, Dodge, Gossip, Outdoor Survival, Row, Swim,Fisherman, Gregarious, Strider (Marshes), Strong Swimmer
+Seaman 1, Landsman, Silver 1, Sail, Climb, Consume Alcohol, Gamble, Gossip, Row, Melee (Brawling), Swim, Fisherman, Strider (Coastal), Strong Back, Strong Swimmer
+Smuggler 1, River Runner, Brass 2, Stealth (Rural or Urban), Athletics, Bribery, Cool, Consume Alcohol, Row, Sail, Swim, Criminal, Fisherman, Strider (Marshes), Strong Back
+Stevedore 1, Dockhand, Endurance, Athletics, Climb, Consume Alcohol, Dodge, Gossip, Melee (Basic), Swim, Dirty Fighting, Strong Back, Sturdy, Very Strong
+Wrecker 1, Cargo Scavenger, Brass 2, Melee (Basic), Climb, Consume Alcohol, Dodge, Endurance, Row, Outdoor Survival, Swim, Break and Enter, Criminal, Fisherman, Strong Back
+Bawd 1, Hustler, Brass 1, Charm, Bribery, Consume Alcohol, Entertain (Any), Gamble, Gossip, Haggle, Intimidate, Attractive, Alley Cat, Blather, Gregarious
+Charlatan 1, Swindler, Brass 3, Charm, Bribery, Consume Alcohol, Entertain (Storytelling), Gamble, Gossip, Haggle, Sleight of Hand, Cardsharp, Diceman, Etiquette (Any), Luck
+Fence 1, Broker, Silver 1, Evaluate, Charm, Consume Alcohol, Dodge, Gamble, Gossip, Haggle, Melee (Basic), Alley Cat, Cardsharp, Dealmaker, Gregarious
+Grave Robber 1, Body Snatcher, Brass 2, Stealth (Any), Climb, Cool, Dodge, Endurance, Gossip, Intuition, Perception, Alley Cat, Criminal, Flee!, Strong Back
+Outlaw 1, Brigand, Brass 1, Athletics, Intimidate, Consume Alcohol, Cool, Endurance, Gamble, Melee (Basic), Outdoor Survival, Combat Aware, Criminal, Rover, Flee!
+Racketeer  1, Thug, Brass 3, Intimidate, Consume Alcohol, Cool, Dodge, Endurance, Lore (Local), Melee (Brawling), Stealth (Urban), Criminal, Etiquette (Criminals), Menacing, Strike Mighty Blow
+Thief 1, Prowler, Brass 1, Athletics, Climb, Cool, Dodge, Endurance, Intuition, Perception, Stealth (Urban), Alley Cat, Criminal, Flee!, Strike to Stun
+Witch 1, Hexer, Brass 1, Language (Magick), Channelling, Cool, Endurance, Gossip, Intimidate, Sleight of Hand, Stealth (Rural), Criminal, Instinctive Diction, Menacing, Petty Magic
+Cavalryman 1, Horseman, Silver 2, Ride (Horse), Animal Care, Charm Animal, Endurance, Language (Battle), Melee (Basic), Outdoor Survival, Perception, Combat Aware, Crack the Whip, Lightning Reflexes, Roughrider
+Guard 1, Sentry, Silver 1, Perception, Consume Alcohol, Endurance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (Basic), Diceman, Etiquette (Servants), Strike to Stun, Tenacious
+Knight 1, Squire, Silver 3, Melee (Cavalry), Athletics, Animal Care, Charm Animal, Heal, Lore (Heraldry), Ride (Horse), Trade (Farrier), Etiquette (any), Roughrider, Sturdy, Warrior Born
+Pit Fighter 1, Pugilist, Brass 4, Athletics, Cool, Dodge, Endurance, Gamble, Intimidate, Melee (Any), Melee (Brawling), Dirty Fighting, In-fighter, Iron Jaw, Reversal
+Protagonist 1, Braggart, Brass 2, Melee (Any), Athletics, Dodge, Endurance, Entertain (Taunt), Gossip, Haggle, Intimidate, In-fighter, Dirty Fighting, Menacing, Warrior Born
+Slayer 1, Troll Slayer, Brass 2, Melee (Basic), Consume Alcohol, Cool, Dodge, Endurance, Gamble, Heal, Lore (Trolls), Dual Wielder, Fearless (Everything), Frenzy, Slayer
+Soldier 1, Recruit, Silver 1, Melee (Basic), Athletics, Climb, Cool, Dodge, Endurance, Language, (Battle), Play (Drum or Fife), Diceman, Marksman, Strong Back, Warrior Born
+Warrior Priest 1, Novitiate, Leadership, Brass 2, Cool, Dodge, Endurance, Heal, Lore (Theology), Melee (Any), Pray, Bless (Any), Etiquette (Cultists), Read/Write, Strong-minded
