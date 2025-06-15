@@ -1,64 +1,64 @@
-Apothecary 1, Apothecary’s Apprentice, Brass 3, Trade (Apothecary), Consume Alcohol, Heal, Language (Classical), Lore (Chemistry), Lore (Medicine), Lore (Plants), Trade (Poisoner), Concoct, Craftsman (Apothecary), Etiquette (Scholar), Read/Write
-Engineer 1, Student Engineer, Brass 4, Trade (Engineer), Consume Alcohol, Cool, Endurance, Language (Classical), Lore (Engineer), Perception, Ranged (Blackpowder), Artistic, Gunner, Read/Write, Tinker
-Lawyer 1, Student Lawyer, Brass 4, Lore (Law), Consume Alcohol, Endurance, Haggle, Language (Classical), Lore (Theology), Perception, Research, Blather, Etiquette (Scholar), Read/Write, Speedreader
-Nun 1, Novitiate, Brass 1, Lore (Theology), Art (Calligraphy), Cool, Endurance, Entertain (Storyteller), Gossip, Heal, Pray, Bless (Any), Stone Soup, Panhandle, Read/Write
-Physician 1, Physician’s Apprentice, Brass 4, Heal, Bribery, Cool, Drive, Endurance, Gossip, Perception, Sleight of Hand, Bookish, Field Dressing, Read/Write, Strike to Stun
-Priest 1, Initiate, Brass 2, Pray, Athletics, Cool, Endurance, Intuition, Lore (Theology), Perception, Research, Bless (Any), Holy Visions, Read/Write, Suave
-Scholar 1, Student, Brass 3, Lore (Any), Consume Alcohol, Entertain (Storytelling), Gamble, Gossip, Haggle, Language (Classical), Research, Carouser, Read/Write, Savvy, Super Numerate
-Wizard 1, Wizard’s Apprentice, Brass 3, Language (Magick), Channelling (Any Colour), Dodge, Intuition, Lore (Magic), Melee (Basic), Melee (Polearm), Perception, Aethyric Attunement, Petty Magic, Read/Write, Second Sight
-Agitator 1, Pamphleteer, Brass 1, Charm, Art (Writing), Bribery, Consume Alcohol, Gossip, Haggle, Lore (Politics), Trade (Printing), Blather, Gregarious, Panhandle, Read/Write
-Artisan 1, Apprentice Artisan, Brass 2, Trade (Any), Athletics, Cool, Consume Alcohol, Dodge, Endurance, Evaluate, Stealth (Urban), Artistic, Craftsman (any), Strong Back, Very Strong
-Beggar 1, Pauper, Brass 0, Charm, Athletics, Consume Alcohol, Cool, Dodge, Endurance, Intuition, Stealth (Urban), Panhandle, Resistance (Disease), Stone Soup, Very Resilient
-Investigator 1, Sleuth, Silver 1, Perception, Charm, Climb, Cool, Gossip, Intuition, Stealth (Urban), Track, Alley Cat, Beneath Notice, Read/Write, Sharp
-Merchant 1, Trader, Silver 2, Haggle, Animal Care, Bribery, Charm, Consume Alcohol, Drive, Gamble, Gossip, Blather, Dealmaker, Read/Write, Suave
-Rat Catcher 1, Rat Hunter, Brass 3, Melee (Basic), Athletics, Animal Training (Dog), Charm Animal, Consume Alcohol, Endurance, Ranged (Sling), Stealth (Underground or Urban), Night Vision, Resistance (Disease), Strike Mighty Blow, Strike to Stun
-Townsman 1, Clerk, Silver 1, Haggle, Charm, Climb, Consume Alcohol, Drive, Dodge, Gamble, Gossip, Alley Cat, Beneath Notice, Etiquette (Servants), Sturdy
-Watchman 1, Watch Recruit, Brass 3, Perception, Athletics, Climb, Consume Alcohol, Dodge, Endurance, Gamble, Melee (Any), Drilled, Hardy, Strike to Stun, Tenacious
-Advisor 1, Aide, Silver 2, Lore (Politics), Bribery, Consume Alcohol, Endurance, Gossip, Haggle, Language (Classical), Perception, Beneath Notice, Etiquette (Any), Gregarious, Read/Write
-Artist 1, Apprentice Artist, Silver 1, Art (Any), Cool, Consume Alcohol, Evaluate, Endurance, Gossip, Perception, Stealth (Urban), Artistic, Sharp, Strong Back, Tenacious
-Duellist 1, Fencer, Silver 3, Melee (Any), Athletics, Dodge, Endurance, Heal, Intuition, Language (Classical), Perception, Beat Blade, Distract, Feint, Step Aside
-Envoy 1, Herald, Silver 2, Charm, Athletics, Drive, Dodge, Endurance, Intuition, Ride (Horse), Row, Blather, Etiquette (Nobles), Read/Write, Suave
-Noble 1, Scion, Gold 1, Leadership, Bribery, Consume Alcohol, Gamble, Intimidate, Lore (Heraldry), Melee (Fencing), Play (Any), Etiquette (Nobles), Luck, Noble Blood, Read/Write
-Servant 1, Menial, Silver 1, Endurance, Athletics, Climb, Drive, Dodge, Intuition, Perception, Stealth (Any), Beneath Notice, Strong Back, Strong-minded, Sturdy
-Spy 1, Informer, Brass 3, Gossip, Bribery, Charm, Cool, Gamble, Haggle, Perception, Stealth (Any), Blather, Carouser, Gregarious, Shadow
-Warden 1, Custodian, Silver 1, Perception, Athletics, Charm Animal, Consume Alcohol, Cool, Endurance, Intuition, Lore (Local), Menacing, Night Vision, Sharp, Strike to Stun
-Bailiff 1, Tax Collector, Silver 1, Intimidate, Cool, Dodge, Endurance, Gossip, Haggle, Melee (Basic), Perception, Embezzle, Numismatics, Strong Back, Tenacious
-Hedge Witch 1, Hedge Apprentice, Brass 1, Intuition, Channelling, Endurance, Language (Magick), Lore (Folklore), Lore (Herbs), Outdoor Survival, Perception, Fast Hands, Petty Magic, Rover, Strider (Woodlands)
-Herbalist 1, Herb Gatherer, Brass 2, Trade (Herbalist), Charm Animal, Climb, Endurance, Lore (Herbs), Outdoor Survival, Perception, Swim, Acute Sense (Taste), Orientation, Rover, Strider (any)
-Hunter 1, Trapper, Brass 2, Outdoor Survival, Charm Animal, Climb, Endurance, Lore (Beasts), Perception, Ranged (Sling), Set Trap, Hardy, Rover, Strider (any), Trapper
-Miner 1, Prospector, Brass 2, Melee (Two-handed), Cool, Endurance, Intuition, Lore (Local), Outdoor Survival, Perception, Swim, Rover, Strider (Rocky), Sturdy, Tenacious
-Mystic 1, Fortune Teller, Intuition, Charm, Entertain (Fortune Telling), Dodge, Gossip, Haggle, Perception, Sleight of Hand, Attractive, Luck, Second Sight, Suave
-Scout 1, Guide, Brass 3, Perception, Charm Animal, Climb, Endurance, Gossip, Lore (Local), Melee (Basic), Outdoor Survival, Orientation, Rover, Sharp, Strider (any)
-Villager 1, Peasant, Brass 2, Endurance, Animal Care, Athletics, Consume Alcohol, Gossip, Melee (Brawling), Lore (Local), Outdoor Survival, Rover, Strong Back, Strong-minded, Stone Soup
-Bounty Hunter 1, Thief-taker, Silver 1, Melee (Basic), Bribery, Charm, Gossip, Haggle, Intuition, Outdoor Survival, Perception, Break and Enter, Shadow, Strike to Stun, Suave
-Coachman 1, Postilion, Silver 1, Drive, Animal Care, Charm Animal, Climb, Endurance, Perception, Ranged (Entangling), Ride (Horse), Animal Affinity, Seasoned Traveller, Trick-Riding, Tenacious
-Entertainer 1, Busker, Brass 3, Entertain (Any), Athletics, Charm, Gossip, Haggle, Perform (Any), Play (any), Sleight of Hand, Attractive, Mimic, Public-Speaking, Suave
-Flagellant 1, Zealot, Brass 0, Melee (Flail), Dodge, Endurance, Heal, Intimidate, Intuition, Lore (Sigmar), Outdoor Survival, Berserk Charge, Frenzy, Read/Write, Stone Soup
-Messenger 1, Runner, Brass 3, Endurance, Athletics, Climb, Dodge, Gossip, Navigation, Perception, Melee (Brawling), Flee!, Fleet Footed, Sprinter, Step Aside
-Pedlar 1, Vagabond, Brass 1, Charm, Endurance, Entertain (Storytelling), Gossip, Haggle, Intuition, Outdoor Survival, Stealth (Rural or Urban), Fisherman, Flee!, Rover, Tinker
-Road Warden 1, Toll Keeper, Brass 5, Perception, Bribery, Consume Alcohol, Gamble, Gossip, Haggle, Melee (Basic), Ranged (Crossbow), Coolheaded, Embezzle, Marksman, Numismatics
-Witch Hunter 1, Interrogator, Silver 1, Intimidate, Charm, Consume Alcohol, Heal, Intuition, Lore (Torture), Melee (Brawling), Perception, Coolheaded, Menacing, Read/Write, Resolute
-Boatman 1, Boat-hand, Silver 1, Sail, Consume Alcohol, Dodge, Endurance, Gossip, Melee (Brawling), Row, Swim, Dirty Fighting, Fisherman, Strong Back, Strong Swimmer
-Huffer 1, Riverguide, Brass 4, Lore (Riverways), Consume Alcohol, Gossip, Intuition, Lore (Local), Perception, Row, Swim, Fisherman, Night Vision, Orientation, Waterman
-Riverwarden 1, River Recruit, Silver 1, Melee (Basic), Athletics, Dodge, Endurance, Perception, Row, Sail, Swim, Strong Swimmer, Strong Back, Very Strong, Waterman
-Riverwoman 1, Greenfish, Brass 2, Endurance, Athletics, Consume Alcohol, Dodge, Gossip, Outdoor Survival, Row, Swim,Fisherman, Gregarious, Strider (Marshes), Strong Swimmer
-Seaman 1, Landsman, Silver 1, Sail, Climb, Consume Alcohol, Gamble, Gossip, Row, Melee (Brawling), Swim, Fisherman, Strider (Coastal), Strong Back, Strong Swimmer
-Smuggler 1, River Runner, Brass 2, Stealth (Rural or Urban), Athletics, Bribery, Cool, Consume Alcohol, Row, Sail, Swim, Criminal, Fisherman, Strider (Marshes), Strong Back
-Stevedore 1, Dockhand, Endurance, Athletics, Climb, Consume Alcohol, Dodge, Gossip, Melee (Basic), Swim, Dirty Fighting, Strong Back, Sturdy, Very Strong
-Wrecker 1, Cargo Scavenger, Brass 2, Melee (Basic), Climb, Consume Alcohol, Dodge, Endurance, Row, Outdoor Survival, Swim, Break and Enter, Criminal, Fisherman, Strong Back
-Bawd 1, Hustler, Brass 1, Charm, Bribery, Consume Alcohol, Entertain (Any), Gamble, Gossip, Haggle, Intimidate, Attractive, Alley Cat, Blather, Gregarious
-Charlatan 1, Swindler, Brass 3, Charm, Bribery, Consume Alcohol, Entertain (Storytelling), Gamble, Gossip, Haggle, Sleight of Hand, Cardsharp, Diceman, Etiquette (Any), Luck
-Fence 1, Broker, Silver 1, Evaluate, Charm, Consume Alcohol, Dodge, Gamble, Gossip, Haggle, Melee (Basic), Alley Cat, Cardsharp, Dealmaker, Gregarious
-Grave Robber 1, Body Snatcher, Brass 2, Stealth (Any), Climb, Cool, Dodge, Endurance, Gossip, Intuition, Perception, Alley Cat, Criminal, Flee!, Strong Back
-Outlaw 1, Brigand, Brass 1, Athletics, Intimidate, Consume Alcohol, Cool, Endurance, Gamble, Melee (Basic), Outdoor Survival, Combat Aware, Criminal, Rover, Flee!
-Racketeer  1, Thug, Brass 3, Intimidate, Consume Alcohol, Cool, Dodge, Endurance, Lore (Local), Melee (Brawling), Stealth (Urban), Criminal, Etiquette (Criminals), Menacing, Strike Mighty Blow
-Thief 1, Prowler, Brass 1, Athletics, Climb, Cool, Dodge, Endurance, Intuition, Perception, Stealth (Urban), Alley Cat, Criminal, Flee!, Strike to Stun
-Witch 1, Hexer, Brass 1, Language (Magick), Channelling, Cool, Endurance, Gossip, Intimidate, Sleight of Hand, Stealth (Rural), Criminal, Instinctive Diction, Menacing, Petty Magic
-Cavalryman 1, Horseman, Silver 2, Ride (Horse), Animal Care, Charm Animal, Endurance, Language (Battle), Melee (Basic), Outdoor Survival, Perception, Combat Aware, Crack the Whip, Lightning Reflexes, Roughrider
-Guard 1, Sentry, Silver 1, Perception, Consume Alcohol, Endurance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (Basic), Diceman, Etiquette (Servants), Strike to Stun, Tenacious
-Knight 1, Squire, Silver 3, Melee (Cavalry), Athletics, Animal Care, Charm Animal, Heal, Lore (Heraldry), Ride (Horse), Trade (Farrier), Etiquette (any), Roughrider, Sturdy, Warrior Born
-Pit Fighter 1, Pugilist, Brass 4, Athletics, Cool, Dodge, Endurance, Gamble, Intimidate, Melee (Any), Melee (Brawling), Dirty Fighting, In-fighter, Iron Jaw, Reversal
-Protagonist 1, Braggart, Brass 2, Melee (Any), Athletics, Dodge, Endurance, Entertain (Taunt), Gossip, Haggle, Intimidate, In-fighter, Dirty Fighting, Menacing, Warrior Born
-Slayer 1, Troll Slayer, Brass 2, Melee (Basic), Consume Alcohol, Cool, Dodge, Endurance, Gamble, Heal, Lore (Trolls), Dual Wielder, Fearless (Everything), Frenzy, Slayer
-Soldier 1, Recruit, Silver 1, Melee (Basic), Athletics, Climb, Cool, Dodge, Endurance, Language, (Battle), Play (Drum or Fife), Diceman, Marksman, Strong Back, Warrior Born
-Warrior Priest 1, Novitiate, Leadership, Brass 2, Cool, Dodge, Endurance, Heal, Lore (Theology), Melee (Any), Pray, Bless (Any), Etiquette (Cultists), Read/Write, Strong-minded
+Apothecary 1, Apothecary’s Apprentice, Brass 3, Trade (Apothecary), Consume Alcohol, Heal, Language (Classical), Lore (Chemistry), Lore (Medicine), Lore (Plants), Trade (Poisoner), Concoct, Craftsman (Apothecary), Etiquette (Scholar), Read/Write, t, dex, int
+Engineer 1, Student Engineer, Brass 4, Trade (Engineer), Consume Alcohol, Cool, Endurance, Language (Classical), Lore (Engineer), Perception, Ranged (Blackpowder), Artistic, Gunner, Read/Write, Tinker, bs, dex, int
+Lawyer 1, Student Lawyer, Brass 4, Lore (Law), Consume Alcohol, Endurance, Haggle, Language (Classical), Lore (Theology), Perception, Research, Blather, Etiquette (Scholar), Read/Write, Speedreader, i, dex int
+Nun 1, Novitiate, Brass 1, Lore (Theology), Art (Calligraphy), Cool, Endurance, Entertain (Storyteller), Gossip, Heal, Pray, Bless (Any), Stone Soup, Panhandle, Read/Write, dex, int, fel
+Physician 1, Physician’s Apprentice, Brass 4, Heal, Bribery, Cool, Drive, Endurance, Gossip, Perception, Sleight of Hand, Bookish, Field Dressing, Read/Write, Strike to Stun, dex, int, wp
+Priest 1, Initiate, Brass 2, Pray, Athletics, Cool, Endurance, Intuition, Lore (Theology), Perception, Research, Bless (Any), Holy Visions, Read/Write, Suave, t, agi, wp
+Scholar 1, Student, Brass 3, Lore (Any), Consume Alcohol, Entertain (Storytelling), Gamble, Gossip, Haggle, Language (Classical), Research, Carouser, Read/Write, Savvy, Super Numerate, t, int, wp
+Wizard 1, Wizard’s Apprentice, Brass 3, Language (Magick), Channelling (Any Colour), Dodge, Intuition, Lore (Magic), Melee (Basic), Melee (Polearm), Perception, Aethyric Attunement, Petty Magic, Read/Write, Second Sight, ws, int, wp
+Agitator 1, Pamphleteer, Brass 1, Charm, Art (Writing), Bribery, Consume Alcohol, Gossip, Haggle, Lore (Politics), Trade (Printing), Blather, Gregarious, Panhandle, Read/Write, bs, int, fel
+Artisan 1, Apprentice Artisan, Brass 2, Trade (Any), Athletics, Cool, Consume Alcohol, Dodge, Endurance, Evaluate, Stealth (Urban), Artistic, Craftsman (any), Strong Back, Very Strong, s, t, dex
+Beggar 1, Pauper, Brass 0, Charm, Athletics, Consume Alcohol, Cool, Dodge, Endurance, Intuition, Stealth (Urban), Panhandle, Resistance (Disease), Stone Soup, Very Resilient, t, agi, fel
+Investigator 1, Sleuth, Silver 1, Perception, Charm, Climb, Cool, Gossip, Intuition, Stealth (Urban), Track, Alley Cat, Beneath Notice, Read/Write, Sharp, i, agi, int
+Merchant 1, Trader, Silver 2, Haggle, Animal Care, Bribery, Charm, Consume Alcohol, Drive, Gamble, Gossip, Blather, Dealmaker, Read/Write, Suave, agi, wp, fel
+Rat Catcher 1, Rat Hunter, Brass 3, Melee (Basic), Athletics, Animal Training (Dog), Charm Animal, Consume Alcohol, Endurance, Ranged (Sling), Stealth (Underground or Urban), Night Vision, Resistance (Disease), Strike Mighty Blow, Strike to Stun, ws, bs, wp
+Townsman 1, Clerk, Silver 1, Haggle, Charm, Climb, Consume Alcohol, Drive, Dodge, Gamble, Gossip, Alley Cat, Beneath Notice, Etiquette (Servants), Sturdy, agi, int, fel
+Watchman 1, Watch Recruit, Brass 3, Perception, Athletics, Climb, Consume Alcohol, Dodge, Endurance, Gamble, Melee (Any), Drilled, Hardy, Strike to Stun, Tenacious, ws, s, fel
+Advisor 1, Aide, Silver 2, Lore (Politics), Bribery, Consume Alcohol, Endurance, Gossip, Haggle, Language (Classical), Perception, Beneath Notice, Etiquette (Any), Gregarious, Read/Write, t, i, agi
+Artist 1, Apprentice Artist, Silver 1, Art (Any), Cool, Consume Alcohol, Evaluate, Endurance, Gossip, Perception, Stealth (Urban), Artistic, Sharp, Strong Back, Tenacious, s, i, dex
+Duellist 1, Fencer, Silver 3, Melee (Any), Athletics, Dodge, Endurance, Heal, Intuition, Language (Classical), Perception, Beat Blade, Distract, Feint, Step Aside, ws, i, agi
+Envoy 1, Herald, Silver 2, Charm, Athletics, Drive, Dodge, Endurance, Intuition, Ride (Horse), Row, Blather, Etiquette (Nobles), Read/Write, Suave, t, agi, fel
+Noble 1, Scion, Gold 1, Leadership, Bribery, Consume Alcohol, Gamble, Intimidate, Lore (Heraldry), Melee (Fencing), Play (Any), Etiquette (Nobles), Luck, Noble Blood, Read/Write, ws, i, dex
+Servant 1, Menial, Silver 1, Endurance, Athletics, Climb, Drive, Dodge, Intuition, Perception, Stealth (Any), Beneath Notice, Strong Back, Strong-minded, Sturdy, s, t, agi
+Spy 1, Informer, Brass 3, Gossip, Bribery, Charm, Cool, Gamble, Haggle, Perception, Stealth (Any), Blather, Carouser, Gregarious, Shadow, agi, wp, fel
+Warden 1, Custodian, Silver 1, Perception, Athletics, Charm Animal, Consume Alcohol, Cool, Endurance, Intuition, Lore (Local), Menacing, Night Vision, Sharp, Strike to Stun, s, t, wp
+Bailiff 1, Tax Collector, Silver 1, Intimidate, Cool, Dodge, Endurance, Gossip, Haggle, Melee (Basic), Perception, Embezzle, Numismatics, Strong Back, Tenacious, ws, i, wp
+Hedge Witch 1, Hedge Apprentice, Brass 1, Intuition, Channelling, Endurance, Language (Magick), Lore (Folklore), Lore (Herbs), Outdoor Survival, Perception, Fast Hands, Petty Magic, Rover, Strider (Woodlands), t, i, dex
+Herbalist 1, Herb Gatherer, Brass 2, Trade (Herbalist), Charm Animal, Climb, Endurance, Lore (Herbs), Outdoor Survival, Perception, Swim, Acute Sense (Taste), Orientation, Rover, Strider (any), t, i, agi
+Hunter 1, Trapper, Brass 2, Outdoor Survival, Charm Animal, Climb, Endurance, Lore (Beasts), Perception, Ranged (Sling), Set Trap, Hardy, Rover, Strider (any), Trapper, s, t, dex
+Miner 1, Prospector, Brass 2, Melee (Two-handed), Cool, Endurance, Intuition, Lore (Local), Outdoor Survival, Perception, Swim, Rover, Strider (Rocky), Sturdy, Tenacious, s, t, wp
+Mystic 1, Fortune Teller, Intuition, Charm, Entertain (Fortune Telling), Dodge, Gossip, Haggle, Perception, Sleight of Hand, Attractive, Luck, Second Sight, Suave, i, dex, fel
+Scout 1, Guide, Brass 3, Perception, Charm Animal, Climb, Endurance, Gossip, Lore (Local), Melee (Basic), Outdoor Survival, Orientation, Rover, Sharp, Strider (any), t, i, agi
+Villager 1, Peasant, Brass 2, Endurance, Animal Care, Athletics, Consume Alcohol, Gossip, Melee (Brawling), Lore (Local), Outdoor Survival, Rover, Strong Back, Strong-minded, Stone Soup, s, t, agi
+Bounty Hunter 1, Thief-taker, Silver 1, Melee (Basic), Bribery, Charm, Gossip, Haggle, Intuition, Outdoor Survival, Perception, Break and Enter, Shadow, Strike to Stun, Suave, ws, t, agi
+Coachman 1, Postilion, Silver 1, Drive, Animal Care, Charm Animal, Climb, Endurance, Perception, Ranged (Entangling), Ride (Horse), Animal Affinity, Seasoned Traveller, Trick-Riding, Tenacious, bs, t, wp
+Entertainer 1, Busker, Brass 3, Entertain (Any), Athletics, Charm, Gossip, Haggle, Perform (Any), Play (any), Sleight of Hand, Attractive, Mimic, Public-Speaking, Suave, agi, dex, fel
+Flagellant 1, Zealot, Brass 0, Melee (Flail), Dodge, Endurance, Heal, Intimidate, Intuition, Lore (Sigmar), Outdoor Survival, Berserk Charge, Frenzy, Read/Write, Stone Soup, ws, s, t
+Messenger 1, Runner, Brass 3, Endurance, Athletics, Climb, Dodge, Gossip, Navigation, Perception, Melee (Brawling), Flee!, Fleet Footed, Sprinter, Step Aside, t, i, agi
+Pedlar 1, Vagabond, Brass 1, Charm, Endurance, Entertain (Storytelling), Gossip, Haggle, Intuition, Outdoor Survival, Stealth (Rural or Urban), Fisherman, Flee!, Rover, Tinker, t, dex, wp
+Road Warden 1, Toll Keeper, Brass 5, Perception, Bribery, Consume Alcohol, Gamble, Gossip, Haggle, Melee (Basic), Ranged (Crossbow), Coolheaded, Embezzle, Marksman, Numismatics, bs, t, i
+Witch Hunter 1, Interrogator, Silver 1, Intimidate, Charm, Consume Alcohol, Heal, Intuition, Lore (Torture), Melee (Brawling), Perception, Coolheaded, Menacing, Read/Write, Resolute, ws, t, wp
+Boatman 1, Boat-hand, Silver 1, Sail, Consume Alcohol, Dodge, Endurance, Gossip, Melee (Brawling), Row, Swim, Dirty Fighting, Fisherman, Strong Back, Strong Swimmer, s, t, agi
+Huffer 1, Riverguide, Brass 4, Lore (Riverways), Consume Alcohol, Gossip, Intuition, Lore (Local), Perception, Row, Swim, Fisherman, Night Vision, Orientation, Waterman, ws, t, i 
+Riverwarden 1, River Recruit, Silver 1, Melee (Basic), Athletics, Dodge, Endurance, Perception, Row, Sail, Swim, Strong Swimmer, Strong Back, Very Strong, Waterman, bs, s, fel
+Riverwoman 1, Greenfish, Brass 2, Endurance, Athletics, Consume Alcohol, Dodge, Gossip, Outdoor Survival, Row, Swim,Fisherman, Gregarious, Strider (Marshes), Strong Swimmer, t, agi, dex
+Seaman 1, Landsman, Silver 1, Sail, Climb, Consume Alcohol, Gamble, Gossip, Row, Melee (Brawling), Swim, Fisherman, Strider (Coastal), Strong Back, Strong Swimmer, agi, dex, fel
+Smuggler 1, River Runner, Brass 2, Stealth (Rural or Urban), Athletics, Bribery, Cool, Consume Alcohol, Row, Sail, Swim, Criminal, Fisherman, Strider (Marshes), Strong Back, agi, dex, wp
+Stevedore 1, Dockhand, Endurance, Athletics, Climb, Consume Alcohol, Dodge, Gossip, Melee (Basic), Swim, Dirty Fighting, Strong Back, Sturdy, Very Strong, ws, t, i
+Wrecker 1, Cargo Scavenger, Brass 2, Melee (Basic), Climb, Consume Alcohol, Dodge, Endurance, Row, Outdoor Survival, Swim, Break and Enter, Criminal, Fisherman, Strong Back, ws, s, i
+Bawd 1, Hustler, Brass 1, Charm, Bribery, Consume Alcohol, Entertain (Any), Gamble, Gossip, Haggle, Intimidate, Attractive, Alley Cat, Blather, Gregarious, agi, dex, fel
+Charlatan 1, Swindler, Brass 3, Charm, Bribery, Consume Alcohol, Entertain (Storytelling), Gamble, Gossip, Haggle, Sleight of Hand, Cardsharp, Diceman, Etiquette (Any), Luck, i, dex, fel
+Fence 1, Broker, Silver 1, Evaluate, Charm, Consume Alcohol, Dodge, Gamble, Gossip, Haggle, Melee (Basic), Alley Cat, Cardsharp, Dealmaker, Gregarious, i, agi, fel
+Grave Robber 1, Body Snatcher, Brass 2, Stealth (Any), Climb, Cool, Dodge, Endurance, Gossip, Intuition, Perception, Alley Cat, Criminal, Flee!, Strong Back, s, i, wp
+Outlaw 1, Brigand, Brass 1, Athletics, Intimidate, Consume Alcohol, Cool, Endurance, Gamble, Melee (Basic), Outdoor Survival, Combat Aware, Criminal, Rover, Flee!, ws, s, t
+Racketeer  1, Thug, Brass 3, Intimidate, Consume Alcohol, Cool, Dodge, Endurance, Lore (Local), Melee (Brawling), Stealth (Urban), Criminal, Etiquette (Criminals), Menacing, Strike Mighty Blow, ws, s, t
+Thief 1, Prowler, Brass 1, Athletics, Climb, Cool, Dodge, Endurance, Intuition, Perception, Stealth (Urban), Alley Cat, Criminal, Flee!, Strike to Stun, i, agi, wp
+Witch 1, Hexer, Brass 1, Language (Magick), Channelling, Cool, Endurance, Gossip, Intimidate, Sleight of Hand, Stealth (Rural), Criminal, Instinctive Diction, Menacing, Petty Magic, ws, t, wp
+Cavalryman 1, Horseman, Silver 2, Ride (Horse), Animal Care, Charm Animal, Endurance, Language (Battle), Melee (Basic), Outdoor Survival, Perception, Combat Aware, Crack the Whip, Lightning Reflexes, Roughrider, ws, s, agi
+Guard 1, Sentry, Silver 1, Perception, Consume Alcohol, Endurance, Entertain (Storytelling), Gamble, Gossip, Intuition, Melee (Basic), Diceman, Etiquette (Servants), Strike to Stun, Tenacious, ws, t, agi
+Knight 1, Squire, Silver 3, Melee (Cavalry), Athletics, Animal Care, Charm Animal, Heal, Lore (Heraldry), Ride (Horse), Trade (Farrier), Etiquette (any), Roughrider, Sturdy, Warrior Born, s, i, agi 
+Pit Fighter 1, Pugilist, Brass 4, Athletics, Cool, Dodge, Endurance, Gamble, Intimidate, Melee (Any), Melee (Brawling), Dirty Fighting, In-fighter, Iron Jaw, Reversal, ws, s, t
+Protagonist 1, Braggart, Brass 2, Melee (Any), Athletics, Dodge, Endurance, Entertain (Taunt), Gossip, Haggle, Intimidate, In-fighter, Dirty Fighting, Menacing, Warrior Born, ws, t, agi
+Slayer 1, Troll Slayer, Brass 2, Melee (Basic), Consume Alcohol, Cool, Dodge, Endurance, Gamble, Heal, Lore (Trolls), Dual Wielder, Fearless (Everything), Frenzy, Slayer, ws, s, wp
+Soldier 1, Recruit, Silver 1, Melee (Basic), Athletics, Climb, Cool, Dodge, Endurance, Language, (Battle), Play (Drum or Fife), Diceman, Marksman, Strong Back, Warrior Born, ws, t, wp
+Warrior Priest 1, Novitiate, Leadership, Brass 2, Cool, Dodge, Endurance, Heal, Lore (Theology), Melee (Any), Pray, Bless (Any), Etiquette (Cultists), Read/Write, Strong-minded, ws, t, wp
